@@ -1,0 +1,116 @@
+\begin{thebibliography}{10}
+
+\bibitem{cadical2024}
+Armin Biere, Tobias Faller, Katalin Fazekas, Mathias Fleury, Nils Froleyks, and
+  Florian Pollitt.
+\newblock {CaDiCaL} 2.0.
+\newblock In {\em Computer Aided Verification (CAV '24)}, volume 14681 of {\em
+  LNCS}, pages 133--152. Springer, 2024.
+
+\bibitem{lrat2017}
+Lu{\'i}s Cruz-Filipe, Marijn J.~H. Heule, Warren~A. Hunt, Jr., Matt Kaufmann,
+  and Peter Schneider-Kamp.
+\newblock Efficient certified {RAT} verification.
+\newblock In {\em Automated Deduction -- CADE 26}, volume 10395 of {\em LNCS},
+  pages 220--236. Springer, 2017.
+
+\bibitem{z3_2008}
+Leonardo de~Moura and Nikolaj Bj{\o}rner.
+\newblock {Z3}: An efficient {SMT} solver.
+\newblock In {\em Tools and Algorithms for the Construction and Analysis of
+  Systems (TACAS '08)}, volume 4963 of {\em LNCS}, pages 337--340. Springer,
+  2008.
+
+\bibitem{lean4_2021}
+Leonardo de~Moura and Sebastian Ullrich.
+\newblock The {Lean} 4 theorem prover and programming language.
+\newblock In {\em Automated Deduction -- CADE 28}, volume 12699 of {\em LNCS},
+  pages 625--635. Springer, 2021.
+
+\bibitem{promba2026tosem}
+Jaehyung Lee, Seoksu Lee, Eun-Sun Cho, and Woosuk Lee.
+\newblock Simplifying mixed {Boolean-Arithmetic} obfuscation by program
+  synthesis and equality saturation.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 2026.
+
+\bibitem{promba2023}
+Jaehyung Lee and Woosuk Lee.
+\newblock Simplifying mixed {Boolean-Arithmetic} obfuscation by program
+  synthesis and term rewriting.
+\newblock In {\em Proceedings of the 2023 ACM SIGSAC Conference on Computer and
+  Communications Security (CCS '23)}, pages 2351--2365. ACM, 2023.
+
+\bibitem{mbablast2021}
+Binbin Liu, Junfu Shen, Jiang Ming, Qilong Zheng, Jing Li, and Dongpeng Xu.
+\newblock {MBA-Blast}: Unveiling and simplifying mixed {Boolean-Arithmetic}
+  obfuscation.
+\newblock In {\em 30th USENIX Security Symposium (USENIX Security '21)}, pages
+  1701--1718. USENIX Association, 2021.
+
+\bibitem{xyntia2021}
+Gr{\'e}goire Menguy, S{\'e}bastien Bardin, Richard Bonichon, and Cauim
+  de~Souza~Lima.
+\newblock Search-based local {Black-Box} deobfuscation: Understand, improve and
+  mitigate.
+\newblock In {\em Proceedings of the 2021 ACM SIGSAC Conference on Computer and
+  Communications Security (CCS '21)}, pages 2513--2525. ACM, 2021.
+
+\bibitem{bitwuzla2023}
+Aina Niemetz and Mathias Preiner.
+\newblock Bitwuzla.
+\newblock In {\em Computer Aided Verification (CAV '23)}, volume 13965 of {\em
+  LNCS}, pages 3--17. Springer, 2023.
+
+\bibitem{capstone2014}
+Nguyen~Anh Quynh.
+\newblock Capstone: {Next-Gen} disassembly framework.
+\newblock Black Hat USA 2014, 2014.
+
+\bibitem{unicorn2015}
+Nguyen~Anh Quynh and Dang~Hoang Vu.
+\newblock Unicorn: Next generation {CPU} emulator framework.
+\newblock Black Hat USA 2015, 2015.
+
+\bibitem{simba2022}
+Benjamin Reichenwallner and Peter Meerwald-Stadler.
+\newblock Efficient deobfuscation of linear mixed {Boolean-Arithmetic}
+  expressions.
+\newblock In {\em Proceedings of the 2022 ACM Workshop on Research on Offensive
+  and Defensive Techniques in the Context of Man At The End (MATE) Attacks
+  (CheckMATE '22)}, pages 19--28. ACM, 2022.
+
+\bibitem{gamba2023}
+Benjamin Reichenwallner and Peter Meerwald-Stadler.
+\newblock Simplification of general mixed {Boolean-Arithmetic} expressions:
+  {GAMBA}.
+\newblock In {\em 2023 IEEE European Symposium on Security and Privacy
+  Workshops (EuroS\&PW / WoRMA '23)}, pages 427--438. IEEE, 2023.
+
+\bibitem{gmba2025}
+Youjeong Roh, Joon-Young Paik, Jingun Kwon, and Eun-Sun Cho.
+\newblock {gMBA}: Expression semantic guided mixed {Boolean-Arithmetic}
+  deobfuscation using {Transformer} architectures.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  ACL 2025}, pages 21882--21888. ACL, 2025.
+\newblock arXiv:2506.23634.
+
+\bibitem{rumba2026}
+Jack Royer, Fr{\'e}d{\'e}ric Tronel, and Ya{\"e}lle Vin{\c{c}}ont.
+\newblock A mathematical framework for {MBA} simplification.
+\newblock HAL Preprint hal-05578742, April 2026.
+
+\bibitem{stoke2013}
+Eric Schkufza, Rahul Sharma, and Alex Aiken.
+\newblock Stochastic superoptimization.
+\newblock In {\em Proceedings of the 18th International Conference on
+  Architectural Support for Programming Languages and Operating Systems (ASPLOS
+  '13)}, pages 305--316. ACM, 2013.
+
+\bibitem{llm4decompile2024}
+Hanzhuo Tan, Qi~Luo, Jing Li, and Yuqun Zhang.
+\newblock {LLM4Decompile}: Decompiling binary code with large language models.
+\newblock In {\em Proceedings of the 2024 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP '24)}, pages 3473--3487. ACL, 2024.
+
+\end{thebibliography}

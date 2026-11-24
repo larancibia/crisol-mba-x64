@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crisol-mba-x64"
+version = "1.0.0"
+description = "Certified Neuro-Symbolic Deobfuscation of x86-64 Machine-Code Slices via Hybrid CEGIS, LRAT, and Lean 4 bv_decide"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11"
+authors = [{ name = "Luis Alejandro Arancibia", email = "arancibialuisalejandro@gmail.com" }]
+
+[project.urls]
+Repository = "https://github.com/larancibia/crisol-mba-x64"
+DOI = "https://doi.org/10.5281/zenodo.24476603"
+dependencies = [
+    "bitwuzla>=0.6.0",
+    "capstone>=5.0.0",
+    "matplotlib>=3.8.0",
+    "numpy>=1.26.0",
+    "pytest>=8.0.0",
+    "scipy>=1.12.0",
+    "unicorn>=2.0.1",
+    "z3-solver>=4.13.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["crisol_mba*"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
