@@ -1,0 +1,51 @@
+instance_id,family,width,bitwuzla_unsat,bitwuzla_sec,z3_unsat,z3_sec,cadical_lrat_ok,cadical_lrat_sec,lean4_bv_decide_ok,lean4_bv_decide_sec,lean4_theorem_sha256,lean4_detail
+test_test_mba_poly_mul_32_001,test_mba_poly_mul_32,32,True,0.0691,False,30.131,False,30.5995,True,7.4907,dbaeefdf0e12c550fed53499bb79344582345e3295842375906c92d022936dc1,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_002,test_mba_poly_mul_32,32,True,0.129,False,30.2086,False,30.496,True,7.7507,ada7d2180f1f2cb5a379fb9f3775f586c2f316452aae4523728eda8e25d2983d,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_003,test_mba_poly_mul_32,32,True,0.1932,False,30.0711,True,20.8794,True,3.7959,1274acadbe7fe9c12e1259c8b86860159411f97dabfbda19d023d7d748c9e460,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_004,test_mba_poly_mul_32,32,True,0.1947,False,30.1545,False,30.6935,True,5.6515,fe41b5aea7fcd51eb94f0f0ca6531df8140ef0ac94950d6739949c13928b623e,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_005,test_mba_poly_mul_32,32,True,0.045,False,30.6111,False,30.4567,True,7.1145,3f3ca735fb2f713c36b8816df020f7fdc1e4c1a25d2ad3028124ef8fc0034169,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_006,test_mba_poly_mul_32,32,True,0.1037,False,30.1882,False,30.5549,True,3.7605,82be791d915abb5c22d45d9c8ff4b2b57935060f91bfd9fb7b13a9ccd63f3870,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_007,test_mba_poly_mul_32,32,True,0.17,False,30.0269,True,23.7684,True,3.4426,7f239c0aa4f51f44065d30258d7befe82dc45315f6d3c8f4841f5ff62aa7f7f5,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_008,test_mba_poly_mul_32,32,True,0.079,False,30.1228,False,31.2267,True,7.1745,7da29a55b30520e33ead9b9483da93903ca8be667196c74569928aa8c14bf901,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_009,test_mba_poly_mul_32,32,True,0.0398,False,30.4229,False,30.8948,True,4.0882,70d404e5abcee7423d767d4dcb86f6ac19b8ee8640e39c6a543792e3812f0bfb,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_010,test_mba_poly_mul_32,32,True,0.1214,False,30.0722,False,30.5493,True,3.8782,c92d918698cccbb397a91efd4b8437b4a9884c91a39e9f4fae8ff7092ca560d6,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_011,test_mba_poly_mul_32,32,True,0.0527,False,30.0133,False,30.2699,True,5.4135,33c50cbfa8e17a86e404d69a54eba8b643b62b3238ecb9523f5dd0b0c8d0a84e,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_012,test_mba_poly_mul_32,32,True,0.118,False,30.0271,False,30.4296,True,5.7089,04fe8f74b2a9f404e1d0ab12895b50b8965145d8a315ddbc2c2359ae2e99e6f9,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_013,test_mba_poly_mul_32,32,True,0.0563,False,30.0631,False,30.7071,True,3.9655,1bd7625ab8ecd1115185a8092c27d574d6a2202f28900956f5c4e4c830210935,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_014,test_mba_poly_mul_32,32,True,0.0839,False,30.0416,False,30.2476,True,5.2542,5293003158ac3a173a7c0148bccee6f794cbe3e4ded44be264247334176a0c80,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_015,test_mba_poly_mul_32,32,True,0.0639,False,30.1073,False,30.8764,True,5.0484,0a549ae1a5e7ead3f80fc17a3fc9c3b778fbb9238f424f3a06ddd0aedb63cb43,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_016,test_mba_poly_mul_32,32,True,0.0899,False,30.0385,False,30.2025,True,4.2461,cc92ebeb269d250629d8149cab7dd7a614c5f21a18328e8ef13813f5d1a2689c,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_017,test_mba_poly_mul_32,32,True,0.0556,False,30.0255,False,30.5807,True,3.4006,f1e2d642f4d8e4399c17748dad7900890f8f225457d1816a9b886efc5c968e98,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_018,test_mba_poly_mul_32,32,True,0.1119,False,30.0288,True,33.2922,True,4.8365,3e9cd8a5444ab743255bcdc08ac7fb204ccdf434d47ec20794e6668bb06daa6b,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_019,test_mba_poly_mul_32,32,True,0.2705,False,30.0237,False,30.1952,True,6.3494,35d1286435f66711bd0963c7443be84c7f4bdb2d807383b418228bae3b57b0c9,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_32_020,test_mba_poly_mul_32,32,True,0.0384,False,30.0603,False,30.3713,True,9.8252,010d8e4372f4dfbdaade7796c11dd274e2181fac41babf1b8278b560903fb0c3,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_001,test_mba_poly_mul_64,64,True,0.2056,False,30.0955,False,31.1562,False,17.646,6a8c88146f4def22d8ce4d8aaedcca95b19e6f6c67a6015cc2f1d4c95b03cd30,"Lean rc=1: /tmp/tmpnebnl3og/CrislCheck.lean:3:31: warning: Variable name `rcx` is not explicitly referenced.
+
+Hint: The "
+test_test_mba_poly_mul_64_002,test_mba_poly_mul_64,64,True,0.4412,False,30.0199,False,30.3287,True,4.8557,97c5a83deacd55d54d1a57bf693fa87e050a5852473c24bd1dbd415d4878e687,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_003,test_mba_poly_mul_64,64,True,0.4626,False,30.0131,False,30.4128,True,7.7065,87475418222d8eed5f891de6baaa821ed042308ae109aa6159bfd981487cc8b1,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_004,test_mba_poly_mul_64,64,True,0.4977,False,30.0354,False,30.5416,True,14.4705,0c6667f1ce0cdedf8a9f1150fac15312b8c433d7ceecc46442d00573ed4bf511,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_005,test_mba_poly_mul_64,64,True,0.7419,False,30.0546,False,30.5403,True,15.2291,46374ae13a4270ce18dedc64a525ec98c19843b962d4e08882b8535f4c52bbfa,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_006,test_mba_poly_mul_64,64,True,1.0487,False,30.04,False,30.3118,True,11.1946,e2b9d080fdc4cbb89697719944b133388cdf261dfb356ff7e879db90e626229b,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_007,test_mba_poly_mul_64,64,True,0.1521,False,30.2997,False,30.4004,False,15.4476,f56f438eab1213a762431c1a4d40619cde76f3de78a51d0119c210baf7cd6743,"Lean rc=1: /tmp/tmpvij3jifn/CrislCheck.lean:3:31: warning: Variable name `rcx` is not explicitly referenced.
+
+Hint: The "
+test_test_mba_poly_mul_64_008,test_mba_poly_mul_64,64,True,1.3501,False,30.0639,False,30.2087,True,4.7818,aa48c38e5184e0f45d565b277e639106695204340f0d5a285f861345fa4115ed,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_009,test_mba_poly_mul_64,64,True,0.2171,False,30.0873,False,30.221,True,7.2198,e741691cd6ad234726a863f96239fd00a075ef9817ff35c70c6686fa4bdee1cf,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_010,test_mba_poly_mul_64,64,True,0.3839,False,30.4826,False,30.7262,False,16.6639,80a29540d6af94b6436adc24e5ba096e15fdae9ead10dcd4ba136c5521a5f502,"Lean rc=1: /tmp/tmpn7gnf3dl/CrislCheck.lean:3:31: warning: Variable name `rcx` is not explicitly referenced.
+
+Hint: The "
+test_test_mba_poly_mul_64_011,test_mba_poly_mul_64,64,True,0.3792,False,30.0304,False,30.3175,True,9.8453,e14934e705d4581a5117ab00c544e6836cb53e5ba853a9d4919445ee895d6d8b,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_012,test_mba_poly_mul_64,64,True,0.1765,False,30.0628,False,30.8514,False,15.4235,266f28ea41081161bed64be5331a49ec09018f506371269c51417b8aef6a3678,"Lean rc=1: /tmp/tmpvq0hywbf/CrislCheck.lean:3:31: warning: Variable name `rcx` is not explicitly referenced.
+
+Hint: The "
+test_test_mba_poly_mul_64_013,test_mba_poly_mul_64,64,True,0.3107,False,30.3996,False,30.6407,True,4.5165,ac048d7cdc5a1be8026b2923f9422d3b758134f795f6ece096556b565e95ca8d,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_014,test_mba_poly_mul_64,64,True,0.5701,False,30.0643,False,30.2322,True,6.6573,12969a10425daaa8816c1b30a3979b8af9314c5ebf67a550f02e3f3748f74a25,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_015,test_mba_poly_mul_64,64,True,0.2743,False,30.0231,False,30.3153,True,4.0984,b5e53946458ae5b3232bb64c9c3cc339a7e7e217b380b5483c8493d6db5ad161,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_016,test_mba_poly_mul_64,64,True,0.4227,False,30.0289,False,30.3437,True,15.4419,1fb7ad017c53e26f89e7947870e803383ebc62dd9b23fc3203b669cee79c3620,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_017,test_mba_poly_mul_64,64,True,0.3968,False,30.1062,False,30.6761,True,5.9046,2faaab671c831267c7749e1c333e9d33abc0331f195777a6ea21bebcf4baf17f,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_018,test_mba_poly_mul_64,64,True,0.5376,False,30.074,False,30.3575,True,11.973,18795ccc02b9daac2ef40e1cb2ecfd0ecf8199ffed498efda40e77753e3dcdda,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_019,test_mba_poly_mul_64,64,True,0.2615,False,30.1558,False,30.4415,True,6.6192,ad5be5d1b058d3e217fc907339d136f40e2d4e827c63cc79df6148389549a51b,LEAN4_BV_DECIDE_VERIFIED
+test_test_mba_poly_mul_64_020,test_mba_poly_mul_64,64,True,0.1474,False,30.0587,False,30.3096,False,15.6666,b789b5412150845c2fb7a5808727f7ae609621b5da784c4694ad348287889d4a,"Lean rc=1: /tmp/tmpopzra3fy/CrislCheck.lean:3:31: warning: Variable name `rcx` is not explicitly referenced.
+
+Hint: The "

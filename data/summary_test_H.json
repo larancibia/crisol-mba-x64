@@ -1,0 +1,17 @@
+{
+  "H_hydrogen_V_test": {
+    "passed": 160,
+    "total": 160,
+    "rate_pct": 100.0,
+    "avg_time_sec": 29.6,
+    "avg_llm_calls": 1.01,
+    "vs_AuC_diff_pp": 73.75,
+    "mcnemar_p": 6.018531076210112e-36
+  },
+  "H_sol_strat40": {
+    "passed": 40,
+    "total": 40,
+    "rate_pct": 100.0,
+    "avg_time_sec": 28.51
+  }
+}

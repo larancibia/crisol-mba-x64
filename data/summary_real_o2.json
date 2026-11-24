@@ -1,0 +1,40 @@
+{
+  "n_v_real": 22,
+  "total_generated": 22,
+  "configs": {
+    "A": {
+      "passed": 0,
+      "rate_pct": 0.0,
+      "avg_sec": 2.28
+    },
+    "C": {
+      "passed": 0,
+      "rate_pct": 0.0,
+      "avg_sec": 60.02
+    },
+    "H_hydrogen": {
+      "passed": 22,
+      "rate_pct": 100.0,
+      "avg_sec": 23.44
+    },
+    "H_sol": {
+      "passed": 6,
+      "rate_pct": 27.27,
+      "avg_sec": 55.12
+    }
+  },
+  "A_u_C": {
+    "passed": 0,
+    "rate_pct": 0.0
+  },
+  "mcnemar_H_hydrogen_vs_AuC": {
+    "n10": 22,
+    "n01": 0,
+    "p": 4.76837158203125e-07
+  },
+  "mcnemar_H_sol_vs_AuC": {
+    "n10": 6,
+    "n01": 0,
+    "p": 0.03125
+  }
+}

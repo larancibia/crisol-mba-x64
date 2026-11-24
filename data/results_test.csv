@@ -1,0 +1,641 @@
+config,instance_id,family,passed,status,elapsed_sec,smt_calls,llm_calls,candidates_tried,best_expr,best_cost,ground_truth_cost,lrat_sha256,detail
+A,test_test_mba_3var_carry_64_001,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,1.0657416433095932,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_002,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.5673212939873338,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_003,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.8261612723581493,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_004,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.7907024156302214,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_005,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.7309884377755225,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_006,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.6796261710114777,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_007,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.631747140083462,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_008,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,1.0601744959130883,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_009,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,1.0998414540663362,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_010,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.6200987799093127,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_011,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,1.006655951961875,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_012,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,1.0667964350432158,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_013,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,1.3446775139309466,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_014,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.5832376070320606,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_015,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.6919356412254274,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_016,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.49490423407405615,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_017,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,1.6160731599666178,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_018,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.7281972290948033,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_019,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.8625223459675908,0,0,6068,,,4,,
+A,test_test_mba_3var_carry_64_020,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,0.709618256893009,0,0,6068,,,4,,
+A,test_test_mba_3var_linear_64_001,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.4565472207032144,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_002,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.6323662721551955,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_003,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.7735002227127552,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_004,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.4205128252506256,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_005,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.33431924087926745,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_006,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.30131228966638446,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_007,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.4392942953854799,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_008,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.6506559457629919,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_009,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.5936111980117857,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_010,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.641044762916863,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_011,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.46451289812102914,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_012,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.4345073369331658,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_013,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.7782072918489575,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_014,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.4104329808615148,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_015,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.34868678404018283,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_016,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.4203495723195374,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_017,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.8325155838392675,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_018,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.3862293642014265,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_019,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.4588904078118503,0,0,3876,,,3,,
+A,test_test_mba_3var_linear_64_020,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,0.6976790158078074,0,0,3876,,,3,,
+A,test_test_mba_adc_chain_32_001,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.5751102827489376,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_002,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.7296555009670556,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_003,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.45885224593803287,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_004,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.9386248271912336,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_005,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.6140877078287303,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_006,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.9319263361394405,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_007,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.6011320282705128,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_008,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.8988968748599291,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_009,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,1.4518898101523519,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_010,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.5152901457622647,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_011,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.9467137418687344,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_012,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.8397375093773007,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_013,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.8305931519716978,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_014,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.6426946800202131,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_015,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,1.3842194629833102,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_016,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.7502094036899507,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_017,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.42547575989738107,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_018,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.4578662742860615,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_019,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.7848435090854764,0,0,3944,,,7,,
+A,test_test_mba_adc_chain_32_020,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,0.7742950720712543,0,0,3944,,,7,,
+A,test_test_mba_nand_nor_add_64_001,test_mba_nand_nor_add_64,True,PASS,2.948730743955821,1,0,121,"xor(add(rdi, rsi), 0x3616)",2,2,75612005a07d2686653fcd9b53dd81345cf1ec59cf02585f904a1cdd8078e92b,Enum-L2
+A,test_test_mba_nand_nor_add_64_002,test_mba_nand_nor_add_64,True,PASS,3.208595688920468,1,0,121,"xor(add(rdi, rsi), 0x6fc9)",2,2,377d040a0e81c5fa04f40a815787df00e39bc01bd74b88758be37ee0be79121d,Enum-L2
+A,test_test_mba_nand_nor_add_64_003,test_mba_nand_nor_add_64,True,PASS,2.659192035906017,1,0,121,"xor(add(rdi, rsi), 0x3bf3)",2,2,9c97250ed2a258efd9b473c4fba48e8df1d567a3a11506e94f164d8096dc8907,Enum-L2
+A,test_test_mba_nand_nor_add_64_004,test_mba_nand_nor_add_64,True,PASS,2.8524702577851713,1,0,121,"xor(add(rdi, rsi), 0x5118)",2,2,c3f1e99ca84513843ec98852ebdc76def886ff2333412ef815ed1de3e4b79cef,Enum-L2
+A,test_test_mba_nand_nor_add_64_005,test_mba_nand_nor_add_64,True,PASS,3.265794954262674,1,0,121,"xor(add(rdi, rsi), 0x764e)",2,2,0be72f0c557c7e095fd40474c9317145a222eab7ee5165024764737eccfdc250,Enum-L2
+A,test_test_mba_nand_nor_add_64_006,test_mba_nand_nor_add_64,True,PASS,3.115287419874221,1,0,121,"xor(add(rdi, rsi), 0x4047)",2,2,9b08c57ceb0b78c599c07b2c4cb495b53e34c07f44026699667aa19fecd0ee50,Enum-L2
+A,test_test_mba_nand_nor_add_64_007,test_mba_nand_nor_add_64,True,PASS,3.200360412709415,1,0,121,"xor(add(rdi, rsi), 0x61f3)",2,2,0fd3f1380d807f7f3a30b35220a81c37cc2a156f74bcb2b39ae763017f967e59,Enum-L2
+A,test_test_mba_nand_nor_add_64_008,test_mba_nand_nor_add_64,True,PASS,2.960801361128688,1,0,121,"xor(add(rdi, rsi), 0x45cb)",2,2,034512926df422d9f64ad21e0c685e78035468026478017244ae9c59d75533e5,Enum-L2
+A,test_test_mba_nand_nor_add_64_009,test_mba_nand_nor_add_64,True,PASS,3.1837273202836514,1,0,121,"xor(add(rdi, rsi), 0x5506)",2,2,4de2a4e0a173a9384a1cf7b6132294f1f04382403e9f992c782a08fc2033d396,Enum-L2
+A,test_test_mba_nand_nor_add_64_010,test_mba_nand_nor_add_64,True,PASS,2.8565874518826604,1,0,121,"xor(add(rdi, rsi), 0x2675)",2,2,c9ca8ad76b7c7cf1e2ca0b641f43918f1abffd5b27d2dbd8ee7d78c52f469f30,Enum-L2
+A,test_test_mba_nand_nor_add_64_011,test_mba_nand_nor_add_64,True,PASS,3.1436096439138055,1,0,121,"xor(add(rdi, rsi), 0x5d98)",2,2,e683ee243f04c729a172d9d637fc71b8bb9282b8a661392789a1efb0c4e5d365,Enum-L2
+A,test_test_mba_nand_nor_add_64_012,test_mba_nand_nor_add_64,True,PASS,2.5174838081002235,1,0,121,"xor(add(rdi, rsi), 0x17f0)",2,2,b0ec674fe47866155b9237df927e6d80d20f174176243c42addbb96ceb266db2,Enum-L2
+A,test_test_mba_nand_nor_add_64_013,test_mba_nand_nor_add_64,True,PASS,2.6870634160004556,1,0,121,"xor(add(rdi, rsi), 0x1842)",2,2,1fe438b9177d9722aa039b7ef1c40d4c99b6526e69d701fcef8fbf4ec5d7b701,Enum-L2
+A,test_test_mba_nand_nor_add_64_014,test_mba_nand_nor_add_64,True,PASS,2.1676976340822875,1,0,121,"xor(add(rdi, rsi), 0x50bc)",2,2,ced26c52304bdbe714a1a9f486043f98acfc96a059cfb2a8662d7c32a6262e47,Enum-L2
+A,test_test_mba_nand_nor_add_64_015,test_mba_nand_nor_add_64,True,PASS,2.7499916311353445,1,0,121,"xor(add(rdi, rsi), 0x58c6)",2,2,62267e7d7634ad4dd30674a09117db4b3ddc4e481f13b7861a1f85ddaa7edab5,Enum-L2
+A,test_test_mba_nand_nor_add_64_016,test_mba_nand_nor_add_64,True,PASS,2.23215208388865,1,0,121,"xor(add(rdi, rsi), 0x7422)",2,2,8aa6c1fb7f77695968482fcca0f80f60b3c02ebee53c2c9ee43ad45c9fcbef08,Enum-L2
+A,test_test_mba_nand_nor_add_64_017,test_mba_nand_nor_add_64,True,PASS,2.357266951818019,1,0,121,"xor(add(rdi, rsi), 0x3c4d)",2,2,d626eaa5d2b8f735c1b136805f23df1070663b1e85aa4451a0098f26b1cefbca,Enum-L2
+A,test_test_mba_nand_nor_add_64_018,test_mba_nand_nor_add_64,True,PASS,2.488031253218651,1,0,121,"xor(add(rdi, rsi), 0x3952)",2,2,015c4a98352141ed217a2ba1a116b45636ba10bc96a36b2597fdeb9e260363af,Enum-L2
+A,test_test_mba_nand_nor_add_64_019,test_mba_nand_nor_add_64,True,PASS,2.289411890786141,1,0,121,"xor(add(rdi, rsi), 0x47a1)",2,2,7632916311392097dd7884b2530d85e519bfb5e77846d4193a97e854abc711c8,Enum-L2
+A,test_test_mba_nand_nor_add_64_020,test_mba_nand_nor_add_64,True,PASS,2.6574551770463586,1,0,121,"xor(add(rdi, rsi), 0x5943)",2,2,7d2a91b152c0203a73fccf3257bf7a464d9dbf8d3eb6bc7bf729152fc1d286b6,Enum-L2
+A,test_test_mba_or_and_sub_64_001,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.6188543811440468,0,0,3551,,,3,,
+A,test_test_mba_or_and_sub_64_002,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.6293041841126978,0,0,2203,,,3,,
+A,test_test_mba_or_and_sub_64_003,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.41274649277329445,0,0,3549,,,3,,
+A,test_test_mba_or_and_sub_64_004,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.3170061628334224,0,0,3549,,,3,,
+A,test_test_mba_or_and_sub_64_005,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.3876848719082773,0,0,3551,,,3,,
+A,test_test_mba_or_and_sub_64_006,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.3483911259099841,0,0,3551,,,3,,
+A,test_test_mba_or_and_sub_64_007,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.4966197367757559,0,0,3549,,,3,,
+A,test_test_mba_or_and_sub_64_008,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.34195226011797786,0,0,3551,,,3,,
+A,test_test_mba_or_and_sub_64_009,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.4491895898245275,0,0,3549,,,3,,
+A,test_test_mba_or_and_sub_64_010,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.310827077832073,0,0,3549,,,3,,
+A,test_test_mba_or_and_sub_64_011,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.27425605384632945,0,0,3549,,,3,,
+A,test_test_mba_or_and_sub_64_012,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.31577324215322733,0,0,3549,,,3,,
+A,test_test_mba_or_and_sub_64_013,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.272088386118412,0,0,3551,,,3,,
+A,test_test_mba_or_and_sub_64_014,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.15466903103515506,0,0,2203,,,3,,
+A,test_test_mba_or_and_sub_64_015,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.423962380271405,0,0,3551,,,3,,
+A,test_test_mba_or_and_sub_64_016,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.5374571308493614,0,0,3551,,,3,,
+A,test_test_mba_or_and_sub_64_017,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.24405090184882283,0,0,3549,,,3,,
+A,test_test_mba_or_and_sub_64_018,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.5234491229057312,0,0,3549,,,3,,
+A,test_test_mba_or_and_sub_64_019,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.28991664201021194,0,0,3551,,,3,,
+A,test_test_mba_or_and_sub_64_020,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,0.293923850171268,0,0,3549,,,3,,
+A,test_test_mba_rotate_mix_64_001,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.5888549936935306,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_002,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.7799744829535484,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_003,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.6735173529013991,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_004,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.7587943957187235,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_005,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.7420535697601736,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_006,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.9544313219375908,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_007,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.7611489626578987,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_008,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.6249632383696735,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_009,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.5364889218471944,0,0,4789,,,4,,
+A,test_test_mba_rotate_mix_64_010,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,1.3997911657206714,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_011,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.7047442542389035,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_012,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.9474152331240475,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_013,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.7946410640142858,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_014,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.39922798704355955,0,0,4789,,,4,,
+A,test_test_mba_rotate_mix_64_015,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.6657056543044746,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_016,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.45482276007533073,0,0,4789,,,4,,
+A,test_test_mba_rotate_mix_64_017,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.8464777916669846,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_018,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.5915615451522171,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_019,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,0.5988877010531723,0,0,7177,,,4,,
+A,test_test_mba_rotate_mix_64_020,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,1.0345179298892617,0,0,7177,,,4,,
+A,test_test_mba_sar_neg_32_001,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.4946303488686681,0,0,2201,,,6,,
+A,test_test_mba_sar_neg_32_002,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.4477672870270908,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_003,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.5324389948509634,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_004,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.7288810280151665,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_005,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.6160520240664482,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_006,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.28337015490978956,0,0,2201,,,6,,
+A,test_test_mba_sar_neg_32_007,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.5493565090000629,0,0,2201,,,6,,
+A,test_test_mba_sar_neg_32_008,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.4583562780171633,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_009,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.6906677521765232,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_010,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.42478212574496865,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_011,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.4924095328897238,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_012,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.455620673019439,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_013,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.5528190149925649,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_014,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.6033511282876134,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_015,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.5913842651061714,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_016,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.3817407349124551,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_017,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.7162748170085251,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_018,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.43902188213542104,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_019,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.4361577988602221,0,0,3549,,,6,,
+A,test_test_mba_sar_neg_32_020,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,0.5384924481622875,0,0,3549,,,6,,
+A,test_test_mba_sbb_mask_64_001,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.385013849940151,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_002,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.7404513447545469,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_003,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.23126264289021492,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_004,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.4389409222640097,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_005,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.5573788499459624,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_006,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.46712135011330247,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_007,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.3648725817911327,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_008,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.41736019123345613,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_009,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.4634034698829055,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_010,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.29354317439720035,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_011,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.3313608947210014,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_012,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.38391926418989897,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_013,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.640078202355653,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_014,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.42277360102161765,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_015,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.41443038498982787,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_016,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.6249181339517236,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_017,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.32160848705098033,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_018,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.3645738367922604,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_019,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.2954491460695863,0,0,3946,,,3,,
+A,test_test_mba_sbb_mask_64_020,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,0.35110649606212974,0,0,3946,,,3,,
+B,test_test_mba_3var_carry_64_001,test_mba_3var_carry_64,True,PASS,35.23556226212531,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x3953)",4,4,5fc435524c90d1f2c8ae5c4f1536d694f87f1b49407f8b68b0e93658cffce5ae,agy-hydrogen
+B,test_test_mba_3var_carry_64_002,test_mba_3var_carry_64,True,PASS,24.64302071277052,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x5078)",4,4,692c699161ad62021ea07c82f8e747e6022cc3a63b89ad19eb7fd690ebdaa661,agy-hydrogen
+B,test_test_mba_3var_carry_64_003,test_mba_3var_carry_64,True,PASS,25.60077738808468,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x6f48)",4,4,906131bee3d631adc43068b301564ded19cb7a57a45db91621290463e27f7667,agy-hydrogen
+B,test_test_mba_3var_carry_64_004,test_mba_3var_carry_64,True,PASS,31.36906186165288,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x5ec3)",4,4,754bf858062e02b7c40de2d2ec01d318c5af2215d372a91c7f95d941777ce573,agy-hydrogen
+B,test_test_mba_3var_carry_64_005,test_mba_3var_carry_64,True,PASS,25.72605295665562,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x6ed8)",4,4,148bc8c9389bbaa1685899b9239516750eb4430cdbb0eb3a7a4caeac385bb884,agy-hydrogen
+B,test_test_mba_3var_carry_64_006,test_mba_3var_carry_64,True,PASS,26.139174305833876,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x2e5d)",4,4,8e55e13d338300225fe286351198b24962d3ff1b6b6a083e639b22a7f55f0a45,agy-hydrogen
+B,test_test_mba_3var_carry_64_007,test_mba_3var_carry_64,True,PASS,27.887958423234522,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x15d2)",4,4,9a11280e12ca5695fa3851ac7b6579f233601c0c5e7e2381c23eeffc05f81016,agy-hydrogen
+B,test_test_mba_3var_carry_64_008,test_mba_3var_carry_64,True,PASS,25.86110326834023,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0xe2c)",4,4,702a12ac40afb677c5ce001ed96cd8c1ee7671ce7d7b94436afd1f43045dfd5b,agy-hydrogen
+B,test_test_mba_3var_carry_64_009,test_mba_3var_carry_64,True,PASS,26.23427179409191,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x5ba9)",4,4,f8555f32dbe3f35f33d6c5e390e50d8f9cdec9543c1ff4d75168ab1768d12991,agy-hydrogen
+B,test_test_mba_3var_carry_64_010,test_mba_3var_carry_64,True,PASS,26.92126345494762,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x5123)",4,4,5f75295c4bc2f574b21a1e668115e447ac50575e34965b450750d1ade7ed9b8d,agy-hydrogen
+B,test_test_mba_3var_carry_64_011,test_mba_3var_carry_64,True,PASS,26.076400788966566,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x73)",4,4,3f7c4e563bb3045f72ffccc306d0bbe041455fca7f506eb718e28098fcd899ff,agy-hydrogen
+B,test_test_mba_3var_carry_64_012,test_mba_3var_carry_64,True,PASS,23.763708082959056,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x6aca)",4,4,d7a876b89571d6a14aceac0786dea6985a03af296765d2aeee5c28d59245055e,agy-hydrogen
+B,test_test_mba_3var_carry_64_013,test_mba_3var_carry_64,True,PASS,23.923395780380815,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x390)",4,4,3ae146174f48e036eed13875d6a67286fc1dd2bec62a4e4ec55aec893d06cd32,agy-hydrogen
+B,test_test_mba_3var_carry_64_014,test_mba_3var_carry_64,True,PASS,29.48818361433223,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x3f85)",4,4,e31fd4ac5d8d5a68fb50c8987050a406ea96325523c881656e849f1250501573,agy-hydrogen
+B,test_test_mba_3var_carry_64_015,test_mba_3var_carry_64,True,PASS,25.433496057987213,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x3e46)",4,4,cc0bb59d18c3f74ddfe2084c70d795fbd055a4828d30ef5de927f10dcba79acb,agy-hydrogen
+B,test_test_mba_3var_carry_64_016,test_mba_3var_carry_64,True,PASS,32.67776935221627,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x421b)",4,4,30a01a08414ce6621b8f008c72416ac4a36b5104baba5e12ebacda835e64a737,agy-hydrogen
+B,test_test_mba_3var_carry_64_017,test_mba_3var_carry_64,True,PASS,28.954769749660045,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x109f)",4,4,279e40d6a8dea178b5f188f8708be8bddcd62b2aec287e62a9fa0226680c4792,agy-hydrogen
+B,test_test_mba_3var_carry_64_018,test_mba_3var_carry_64,True,PASS,43.64884386677295,2,1,2,"xor(sub(xor(rdx, adc(rdi, rsi, cf)), rcx), 0x3956)",4,4,0ec07db98138803e779072d4a2e960a86def416860cee5aaa87c1c96f789d430,agy-hydrogen
+B,test_test_mba_3var_carry_64_019,test_mba_3var_carry_64,True,PASS,37.718263692222536,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x2a2b)",4,4,265a6745cfdb74208767435663aa683487f2f6d89f6a64becf2920615304d833,agy-hydrogen
+B,test_test_mba_3var_carry_64_020,test_mba_3var_carry_64,True,PASS,56.69735548691824,2,1,2,"xor(sub(xor(adc(rsi, rdi, cf), rdx), rcx), 0x6bfe)",4,4,738cecbc7c83ee273ce8427da1f528615a847dc89e3b5c5e32841c2ca6425b27,agy-hydrogen
+B,test_test_mba_3var_linear_64_001,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,6.049856321886182,0,1,0,,,3,,agy-hydrogen parsed=0
+B,test_test_mba_3var_linear_64_002,test_mba_3var_linear_64,True,PASS,28.975393989123404,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x1530)",3,3,503cabffe38b201b6a608eec370bc181b4e34e0380f34649c9113833265594ea,agy-hydrogen
+B,test_test_mba_3var_linear_64_003,test_mba_3var_linear_64,True,PASS,34.4576695561409,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x13d8)",3,3,0eedaf091381b82b71b1893f1b08f8b4a03bc45aeab48cba6ad4434ef0a87cf5,agy-hydrogen
+B,test_test_mba_3var_linear_64_004,test_mba_3var_linear_64,True,PASS,33.90848310291767,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x6382)",3,3,ef6c523b75931e97d90f0ab844ce8a1002eff11d5ca1f56757bae6bf6a115def,agy-hydrogen
+B,test_test_mba_3var_linear_64_005,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,64.10715331882238,3,1,3,,,3,,agy-hydrogen parsed=7
+B,test_test_mba_3var_linear_64_006,test_mba_3var_linear_64,True,PASS,39.30682396143675,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x59b1)",3,3,b8ea2db49f2d8ca50d72af206e17f0229aa55742c576e4dccd6c83f512831a4e,agy-hydrogen
+B,test_test_mba_3var_linear_64_007,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,22.763228167314082,0,1,0,,,3,,agy-hydrogen parsed=0
+B,test_test_mba_3var_linear_64_008,test_mba_3var_linear_64,True,PASS,43.231851872988045,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x35b2)",3,3,c798c4afe567a648233c0eed972ee59e7466ade48eff2d20a2d365d80c6219c7,agy-hydrogen
+B,test_test_mba_3var_linear_64_009,test_mba_3var_linear_64,True,PASS,40.94253228371963,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x58b8)",3,3,685e08fe4daf03db32ab7268d859702a67367f9b72e4e11340b21b1848886614,agy-hydrogen
+B,test_test_mba_3var_linear_64_010,test_mba_3var_linear_64,True,PASS,39.18744011828676,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0xbeb)",3,3,f7a590aedfa51fb14c7e6c9ef4a3e1d7d508076f86a9a0ab1d96c5122c6682e4,agy-hydrogen
+B,test_test_mba_3var_linear_64_011,test_mba_3var_linear_64,True,PASS,38.88176813116297,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x32a3)",3,3,5fd02bc2bcc9507226c88d4a8eb2a7300147fb7000d8eba2990b87311ebf8cbb,agy-hydrogen
+B,test_test_mba_3var_linear_64_012,test_mba_3var_linear_64,True,PASS,35.038926071021706,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0xcec)",3,3,552cc4284293c49f251e0151aa2c36ca38ed6a95da5f33ea1afdbef7bd273afd,agy-hydrogen
+B,test_test_mba_3var_linear_64_013,test_mba_3var_linear_64,True,PASS,31.695568430237472,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x5cce)",3,3,8884830a9667293dbf1075b407d8a40f5f60eae2cad8ecc011cbdd8f1e35685c,agy-hydrogen
+B,test_test_mba_3var_linear_64_014,test_mba_3var_linear_64,True,PASS,29.15542891388759,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x5082)",3,3,d57cd0b7cd39d74c1ba69ffc64e37b776980e01b2a6169540dd6eb047d4f78cb,agy-hydrogen
+B,test_test_mba_3var_linear_64_015,test_mba_3var_linear_64,True,PASS,28.282423560973257,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x5fc0)",3,3,fd8883380c95afa20803acea712b8b0b50db67611e4f78dd63a448bef5efe4cf,agy-hydrogen
+B,test_test_mba_3var_linear_64_016,test_mba_3var_linear_64,True,PASS,29.955797472968698,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x1964)",3,3,33626336947df863b66ea26e569384bca2350aa331e9a74c2a46db1079faa8f8,agy-hydrogen
+B,test_test_mba_3var_linear_64_017,test_mba_3var_linear_64,True,PASS,28.300661490298808,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x7c83)",3,3,a70713d47b77398bef95d9e5f285444d1f08c65f5a4af0f4d25fb60c78aae697,agy-hydrogen
+B,test_test_mba_3var_linear_64_018,test_mba_3var_linear_64,True,PASS,26.411731578409672,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x69a7)",3,3,a826a5d88d1b88bc249c67bf38efe11f90541ff27879021d7fa583af43201722,agy-hydrogen
+B,test_test_mba_3var_linear_64_019,test_mba_3var_linear_64,True,PASS,31.91106282081455,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x432e)",3,3,081db9138680010299ce780aecfa35a998054a91059d01a574c182b81262ebc2,agy-hydrogen
+B,test_test_mba_3var_linear_64_020,test_mba_3var_linear_64,True,PASS,32.972081465646625,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x1b98)",3,3,5884e633755320ecca37cc9e3c7f63f751041303b7bc08b099e8f4ef8ef2198c,agy-hydrogen
+B,test_test_mba_adc_chain_32_001,test_mba_adc_chain_32,True,PASS,28.664665156044066,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x14e6))",7,7,83c9166a2390659f7b9b0008611988d23b90bf07f04bba0bdac144cb10e19a1c,agy-hydrogen
+B,test_test_mba_adc_chain_32_002,test_mba_adc_chain_32,True,PASS,21.809219021815807,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x5bbc))",7,7,152a9097af655efff9487558aaddfde3a502e88cb046d205dab68d5223321bcb,agy-hydrogen
+B,test_test_mba_adc_chain_32_003,test_mba_adc_chain_32,True,PASS,27.007924769073725,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x599d))",7,7,806455efcf20bc0ada8104ad5a246e1613468778f64debe066b947afdcd61b10,agy-hydrogen
+B,test_test_mba_adc_chain_32_004,test_mba_adc_chain_32,True,PASS,23.290291480720043,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x515e))",7,7,ac0bd79cf09f4a295d732e23436b0da58e40a2abbac060b0b0dd8d7ae5e38d70,agy-hydrogen
+B,test_test_mba_adc_chain_32_005,test_mba_adc_chain_32,True,PASS,25.24889170518145,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x25b5))",7,7,905acd4078317458149ef4f260f26453a8bf2e17d7259cf041732615039cc99a,agy-hydrogen
+B,test_test_mba_adc_chain_32_006,test_mba_adc_chain_32,True,PASS,29.843545135110617,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x2030))",7,7,e7c36943abdd5bdb8d242787a03919b57065cf5e26811064b0165d94f175dec9,agy-hydrogen
+B,test_test_mba_adc_chain_32_007,test_mba_adc_chain_32,True,PASS,26.21485262690112,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x7523))",7,7,7a6ab0987801b1f0fee047ad5e30893873b2833361b0f2019f00504a212a013f,agy-hydrogen
+B,test_test_mba_adc_chain_32_008,test_mba_adc_chain_32,True,PASS,24.77768694330007,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x6ff4))",7,7,58946c9cef67c353d96f8dce366a56ab6d451a443fd3e6748003a9a053f658fd,agy-hydrogen
+B,test_test_mba_adc_chain_32_009,test_mba_adc_chain_32,True,PASS,25.067612861283123,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x4260))",7,7,d4e7e3a01362dfbb5c417d588776c65299fdde7820175b6023dd9f2e7413f0a6,agy-hydrogen
+B,test_test_mba_adc_chain_32_010,test_mba_adc_chain_32,True,PASS,27.32718530483544,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x2aab))",7,7,881e3fd4ed57001ec1be8b00efeb8fac4304125aa2531f5edff0edacafcd1624,agy-hydrogen
+B,test_test_mba_adc_chain_32_011,test_mba_adc_chain_32,True,PASS,28.35291267419234,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x3387))",7,7,3a61f4a4b4dcdff963cd5db412c194586eccfb657424e0985cea8168c48c0677,agy-hydrogen
+B,test_test_mba_adc_chain_32_012,test_mba_adc_chain_32,True,PASS,27.73271159082651,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x17c7))",7,7,669efd398786d68f0718f1a280de246233fa1490b04c3c0f65414a0c09d92a39,agy-hydrogen
+B,test_test_mba_adc_chain_32_013,test_mba_adc_chain_32,True,PASS,26.147719492204487,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x786a))",7,7,b92aab2c87dfa95ab8ccd3269ad4c0a1d01c60a0218baec12496582e433368d6,agy-hydrogen
+B,test_test_mba_adc_chain_32_014,test_mba_adc_chain_32,True,PASS,28.386900852434337,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x4522))",7,7,c8ff465c2089abf6aa995f55e41d36b5218702ac706e31731e3e88c4bbed9141,agy-hydrogen
+B,test_test_mba_adc_chain_32_015,test_mba_adc_chain_32,True,PASS,30.051864703185856,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x37c4))",7,7,76bfbaf827516df9fe3eac5c0cd8d0db171c4c778a54795de2c3444a001b38fd,agy-hydrogen
+B,test_test_mba_adc_chain_32_016,test_mba_adc_chain_32,True,PASS,23.5640722271055,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x2777))",7,7,30a1d29d8adc7d24555214b03d4b0efbff69bbab2341c71ec9f6f3940ac62253,agy-hydrogen
+B,test_test_mba_adc_chain_32_017,test_mba_adc_chain_32,True,PASS,21.33270724583417,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x53fd))",7,7,f52bf8f6790234f53aeb1171252d9621f1efd036ce7f4216920453fa1611142f,agy-hydrogen
+B,test_test_mba_adc_chain_32_018,test_mba_adc_chain_32,True,PASS,24.60105758998543,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x1aef))",7,7,0bb68b225a388c6241b262d1aa7e86bed93b048eaa43dc498f7194ebe944a4d7,agy-hydrogen
+B,test_test_mba_adc_chain_32_019,test_mba_adc_chain_32,True,PASS,21.73687109304592,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x5700))",7,7,5801bba1f8a4cac132b827012c0ba570d587b422a28e902ecb52d4cc6caec564,agy-hydrogen
+B,test_test_mba_adc_chain_32_020,test_mba_adc_chain_32,True,PASS,26.047582277096808,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x4ef1))",7,7,b9e2cdd7e8b8c1fc941e0554137a9d5ae51992b5a5e21d900b4044e8beb4460c,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_001,test_mba_nand_nor_add_64,True,PASS,22.592438033316284,1,1,1,"xor(add(rdi, rsi), 0x3616)",2,2,d5b1904abeb1453958bbcbb901a81d8cb51d03f94f49b2e575fe4098d592a28b,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_002,test_mba_nand_nor_add_64,True,PASS,22.300947716925293,1,1,1,"xor(add(rdi, rsi), 0x6fc9)",2,2,4d6aa8375b0ba79e45707db9c23d09115f793bb1a63bc409a362618c93196a8b,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_003,test_mba_nand_nor_add_64,True,PASS,28.869128388818353,1,1,1,"xor(add(rdi, rsi), 0x3bf3)",2,2,092acd17f86c4d84d2b0959762e2f0f572ee37f9a20bd2ed1f171a6aef79c470,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_004,test_mba_nand_nor_add_64,True,PASS,21.42384754586965,1,1,1,"xor(add(rdi, rsi), 0x5118)",2,2,89e7ccd3b62374b6288b8d43a8337c2a764a25df0fe8cab329772a0b412a9fbd,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_005,test_mba_nand_nor_add_64,True,PASS,21.08623734395951,1,1,1,"xor(add(rdi, rsi), 0x764e)",2,2,d02b45317840b6f2ec19a9b3ceac074d48e034d69c172dc4d19160b24b365256,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_006,test_mba_nand_nor_add_64,True,PASS,26.084298884961754,1,1,1,"xor(add(rdi, rsi), 0x4047)",2,2,d3c1dc47bff751e39b43feb3bfe06fcf242fa6b574d6c6a81ad900f67242fd9b,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_007,test_mba_nand_nor_add_64,True,PASS,25.571171261370182,1,1,1,"xor(add(rdi, rsi), 0x61f3)",2,2,c35138607140a7d9541d960542195aa9caa1f1b4473bae0dd950cd9d8034820a,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_008,test_mba_nand_nor_add_64,True,PASS,23.77175307739526,1,1,1,"xor(add(rdi, rsi), 0x45cb)",2,2,6fec5c8cb6175c494d6c67da30b9e94e72cb43f978c9cd8ba2662315a6948437,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_009,test_mba_nand_nor_add_64,True,PASS,16.63798143528402,1,1,1,"xor(add(rdi, rsi), 0x5506)",2,2,3aa556f888459a95466d60fb05a1fab9cb76acd648317462dd8b427420357f58,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_010,test_mba_nand_nor_add_64,True,PASS,16.544184011872858,1,1,1,"xor(add(rdi, rsi), 0x2675)",2,2,a47592ab0514b085c21e8cc0338e1ba147740861befc1b6c77965d4762e81f4e,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_011,test_mba_nand_nor_add_64,True,PASS,17.09614836005494,1,1,1,"xor(add(rdi, rsi), 0x5d98)",2,2,b4daed1c2eee218e5621659b43b915cc8eafd319ca24fc616c81b4c02998065b,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_012,test_mba_nand_nor_add_64,True,PASS,16.932518810033798,1,1,1,"xor(add(rdi, rsi), 0x17f0)",2,2,9cd45f62df125ee04d939f4a3d5a3e328675cf61710fcc39a87a6f99a46df8c8,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_013,test_mba_nand_nor_add_64,True,PASS,19.50197264831513,1,1,1,"xor(add(rdi, rsi), 0x1842)",2,2,d2d2bee8d041ce271c92ee25cfc3e00727f90076d6bfc6f8a58145062cf2132d,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_014,test_mba_nand_nor_add_64,True,PASS,19.613005890045315,1,1,1,"xor(add(rdi, rsi), 0x50bc)",2,2,09b398f239fba66df722b040660e0d2e993de8a6690f9c1db2d1e8054fd9695f,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_015,test_mba_nand_nor_add_64,True,PASS,19.409371990244836,1,1,1,"xor(add(rdi, rsi), 0x58c6)",2,2,a6d3338f3d790b5e335f76df635cce2502fad7b59bed2dd7bce74d35b88f6b18,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_016,test_mba_nand_nor_add_64,True,PASS,18.19263503374532,1,1,1,"xor(add(rdi, rsi), 0x7422)",2,2,f0ee2e41e92c8e34b3db9559cbb41508a0d55a25efabb5cca66b7547ac6e577c,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_017,test_mba_nand_nor_add_64,True,PASS,18.403856222052127,1,1,1,"xor(add(rdi, rsi), 0x3c4d)",2,2,e686e921cd18b95a37ac83c81db310af23372508257abb485cbbc6f14a9391aa,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_018,test_mba_nand_nor_add_64,True,PASS,20.219837710727006,1,1,1,"xor(add(rdi, rsi), 0x3952)",2,2,794a61b959edbd1b7435245fb9ed8a2c4af45aa6c1803b49891f38d2e84eda31,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_019,test_mba_nand_nor_add_64,True,PASS,21.0335696330294,1,1,1,"xor(add(rdi, rsi), 0x47a1)",2,2,4b8cc042443b06b9eb2114aae4e5190e6299d6e5507140c30e6d7707029eb32d,agy-hydrogen
+B,test_test_mba_nand_nor_add_64_020,test_mba_nand_nor_add_64,True,PASS,18.006189175881445,1,1,1,"xor(add(rdi, rsi), 0x5943)",2,2,1a131272f9268890be0dacf06c8b9d23eb4a03aa0bae074b9c0c36dbcf025a3a,agy-hydrogen
+B,test_test_mba_or_and_sub_64_001,test_mba_or_and_sub_64,True,PASS,21.297143686562777,1,1,1,"rol(add(xor(rdi, rsi), 0x5ce7), 4)",3,3,a98ba1e0b4ea8690fafbbb8437e9c79763cc73451f89b42287e69240a69211a1,agy-hydrogen
+B,test_test_mba_or_and_sub_64_002,test_mba_or_and_sub_64,True,PASS,19.170637953095138,1,1,1,"rol(add(xor(rdi, rsi), 0x4b7b), 1)",3,3,d97f96e70085c7b18e8ea912cff3394467c68e980c033afd05847ca3407924ee,agy-hydrogen
+B,test_test_mba_or_and_sub_64_003,test_mba_or_and_sub_64,True,PASS,21.444481537211686,1,1,1,"rol(add(xor(rdi, rsi), 0x5dfa), 6)",3,3,b11cfb81941406f7fca53bf06f02efbd4213e788a455987b3fbe0da37343fa85,agy-hydrogen
+B,test_test_mba_or_and_sub_64_004,test_mba_or_and_sub_64,True,PASS,18.699764297809452,1,1,1,"rol(add(xor(rdi, rsi), 0x2930), 7)",3,3,eb51164092e486d641dba1b5f1a42795b03e6aaec3819122dbbad33a55410494,agy-hydrogen
+B,test_test_mba_or_and_sub_64_005,test_mba_or_and_sub_64,True,PASS,16.877586003392935,1,1,1,"rol(add(xor(rdi, rsi), 0x3475), 4)",3,3,792dcca2840bb2c4295476c0a9cb15a6415a8bf56da50752cf5715c23925f697,agy-hydrogen
+B,test_test_mba_or_and_sub_64_006,test_mba_or_and_sub_64,True,PASS,18.746907375752926,1,1,1,"rol(add(xor(rdi, rsi), 0x4265), 3)",3,3,0ae931901b9b6d1283a3f041a081f38b8ddbb5ebdb3dc63c5c3ccd858cdb1b20,agy-hydrogen
+B,test_test_mba_or_and_sub_64_007,test_mba_or_and_sub_64,True,PASS,18.557662510778755,1,1,1,"rol(add(xor(rdi, rsi), 0x7fac), 5)",3,3,71503f6a8e411fe12c9e325fcfeada80f7fbafa351d100ae0711097cc2c51cd4,agy-hydrogen
+B,test_test_mba_or_and_sub_64_008,test_mba_or_and_sub_64,True,PASS,23.322296899277717,1,1,1,"rol(add(xor(rdi, rsi), 0x5373), 4)",3,3,6f354744c34d905b3a2550618c8fb92eba448ed2cd86991f59d03a7a2350f4ad,agy-hydrogen
+B,test_test_mba_or_and_sub_64_009,test_mba_or_and_sub_64,True,PASS,18.150819832924753,1,1,1,"rol(add(xor(rdi, rsi), 0x325f), 6)",3,3,016a72ded50c3a3ce719896c81c61739d6e55f749132d5af53fd956784fe7a12,agy-hydrogen
+B,test_test_mba_or_and_sub_64_010,test_mba_or_and_sub_64,True,PASS,19.502743079327047,1,1,1,"rol(add(xor(rdi, rsi), 0x617), 5)",3,3,bbcf2ed00ee3c72fac43561fe5644930a9e90743bcc2e8e0b43db30edabf9c68,agy-hydrogen
+B,test_test_mba_or_and_sub_64_011,test_mba_or_and_sub_64,True,PASS,18.406069382093847,1,1,1,"rol(add(xor(rdi, rsi), 0x4194), 7)",3,3,a3ff99aa9960338921fdc83189fa166875520f3c5de6f68089f16db78ebe16c1,agy-hydrogen
+B,test_test_mba_or_and_sub_64_012,test_mba_or_and_sub_64,True,PASS,21.296358310617507,1,1,1,"rol(add(xor(rdi, rsi), 0x51cf), 5)",3,3,e64fd0b66104469106c4150c7bed315518b8c05aab5ee9d838a5495ecc7f7e01,agy-hydrogen
+B,test_test_mba_or_and_sub_64_013,test_mba_or_and_sub_64,True,PASS,20.95429144985974,1,1,1,"rol(add(xor(rdi, rsi), 0x21bc), 3)",3,3,61b9676bd5cecace02836759b90153e092074a9deb5983e5b368e9105c30a166,agy-hydrogen
+B,test_test_mba_or_and_sub_64_014,test_mba_or_and_sub_64,True,PASS,17.938753012102097,1,1,1,"rol(add(xor(rdi, rsi), 0x2648), 2)",3,3,b0d01863902adc88162fcd919978a07d2463b135f8a6de462fd9eea73d493ddb,agy-hydrogen
+B,test_test_mba_or_and_sub_64_015,test_mba_or_and_sub_64,True,PASS,17.54048199392855,1,1,1,"rol(add(xor(rdi, rsi), 0x720), 3)",3,3,46b64d0045c563ceda7ad080b551d294a7984bd8c1b92f21c76915cf88e1062c,agy-hydrogen
+B,test_test_mba_or_and_sub_64_016,test_mba_or_and_sub_64,True,PASS,18.872330870013684,1,1,1,"rol(add(xor(rdi, rsi), 0x564b), 4)",3,3,95d2824cd3c030476be8eeca840e09650f02afe037c5f634ad7783abf480ecb7,agy-hydrogen
+B,test_test_mba_or_and_sub_64_017,test_mba_or_and_sub_64,True,PASS,15.835374176036566,1,1,1,"rol(add(xor(rdi, rsi), 0x3f50), 6)",3,3,8167f17eaeb566487b05b9b1ebe051869242d665373bf90799beedf3483faede,agy-hydrogen
+B,test_test_mba_or_and_sub_64_018,test_mba_or_and_sub_64,True,PASS,20.276223254855722,1,1,1,"rol(add(xor(rdi, rsi), 0x6520), 6)",3,3,7590552f9d79a7b96cfa259e48329465986e9bf22957dd54597e1bb0bcb824d0,agy-hydrogen
+B,test_test_mba_or_and_sub_64_019,test_mba_or_and_sub_64,True,PASS,19.470250287093222,1,1,1,"rol(add(xor(rdi, rsi), 0x1c6f), 3)",3,3,03d6dc753a8791c83b85c59200e7a95fa74f3cdef38913745a1aed1b8c2e55ef,agy-hydrogen
+B,test_test_mba_or_and_sub_64_020,test_mba_or_and_sub_64,True,PASS,20.14018711214885,1,1,1,"rol(add(xor(rdi, rsi), 0x1e5), 7)",3,3,419d757313ba0de1aa933b757c28725f0ebfd7511ad923deabd46a81b9b7f369,agy-hydrogen
+B,test_test_mba_rotate_mix_64_001,test_mba_rotate_mix_64,True,PASS,32.7242897329852,1,1,1,"add(ror(xor(rdi, rsi), 0x12), lshr(rdx, 14))",4,4,d285b0b7c3d770edebf4102b51b1c5bb5cc4f95e267c2a94dff05854d9795d68,agy-hydrogen
+B,test_test_mba_rotate_mix_64_002,test_mba_rotate_mix_64,True,PASS,18.997167306020856,1,1,1,"add(ror(xor(rdi, rsi), 0x1c), lshr(rdx, 3))",4,4,2a386fd0171af46d90bc8999182881fef0fc4abc6231f0a2b7f3973e7ac2f303,agy-hydrogen
+B,test_test_mba_rotate_mix_64_003,test_mba_rotate_mix_64,True,PASS,20.406198052689433,1,1,1,"add(ror(xor(rdi, rsi), 0x15), lshr(rdx, 5))",4,4,d60a00ae2a486a6e41a90c69ce0bde00779fe95437f51f585390a27a805e3ccb,agy-hydrogen
+B,test_test_mba_rotate_mix_64_004,test_mba_rotate_mix_64,True,PASS,21.137299738824368,1,1,1,"add(ror(xor(rdi, rsi), 12), lshr(rdx, 15))",4,4,ed779aa473fd759f36b3355ee4b9052f7f44551b14137a906618e31146b28f8e,agy-hydrogen
+B,test_test_mba_rotate_mix_64_005,test_mba_rotate_mix_64,True,PASS,16.591586872935295,1,1,1,"add(ror(xor(rdi, rsi), 0x13), lshr(rdx, 4))",4,4,ad97e64d9ddfc7032b7a1fe0008bfeb335c0ba7a11b304f2d4f2214c5b9614a5,agy-hydrogen
+B,test_test_mba_rotate_mix_64_006,test_mba_rotate_mix_64,True,PASS,18.508534208871424,1,1,1,"add(ror(xor(rdi, rsi), 0x18), lshr(rdx, 8))",4,4,ea5101dded5b79f7a4de58db4679613b1184376ec33eb4e1dc5c7e229c698a15,agy-hydrogen
+B,test_test_mba_rotate_mix_64_007,test_mba_rotate_mix_64,True,PASS,17.750519134104252,1,1,1,"add(ror(xor(rdi, rsi), 9), lshr(rdx, 6))",4,4,8f0c06ea77e089581a52dc3de9c6869ca91c48f7ad22315db365a8a425a53fa0,agy-hydrogen
+B,test_test_mba_rotate_mix_64_008,test_mba_rotate_mix_64,True,PASS,20.798885022755712,1,1,1,"add(ror(xor(rdi, rsi), 10), lshr(rdx, 4))",4,4,d46d95e2131080a897df18a2b25aea7cbd44d4c372697bd8b5f6624993705439,agy-hydrogen
+B,test_test_mba_rotate_mix_64_009,test_mba_rotate_mix_64,True,PASS,21.250947043765336,1,1,1,"add(ror(xor(rdi, rsi), 11), lshr(rdx, 11))",4,4,f7ece5539aaf23701f779efc1789f4e3d06ae3ce39e25081ee43af3d66df618d,agy-hydrogen
+B,test_test_mba_rotate_mix_64_010,test_mba_rotate_mix_64,True,PASS,20.009271524846554,1,1,1,"add(ror(xor(rdi, rsi), 13), lshr(rdx, 10))",4,4,69a74843fdd10cbd9c6968bcc648885ff56cd76b54af5ad8a9e5f34e7e66fcb7,agy-hydrogen
+B,test_test_mba_rotate_mix_64_011,test_mba_rotate_mix_64,True,PASS,17.929020205978304,1,1,1,"add(ror(xor(rdi, rsi), 0x15), lshr(rdx, 14))",4,4,34ba89831b0f4bbae39c3b550dd0519b89c95feca2f75486791befd706af0872,agy-hydrogen
+B,test_test_mba_rotate_mix_64_012,test_mba_rotate_mix_64,True,PASS,25.304488508030772,1,1,1,"add(ror(xor(rdi, rsi), 0x14), lshr(rdx, 7))",4,4,120e07fa641fca46a9596cb95e0ad017adb3163e47377b87ddd67a8fdd1a9b61,agy-hydrogen
+B,test_test_mba_rotate_mix_64_013,test_mba_rotate_mix_64,True,PASS,20.796798564027995,1,1,1,"add(ror(xor(rdi, rsi), 0x17), lshr(rdx, 5))",4,4,088bef397876e91ee39da0c78443d4876c6ddf131cfbc13d74ac79b382e8c052,agy-hydrogen
+B,test_test_mba_rotate_mix_64_014,test_mba_rotate_mix_64,True,PASS,22.878572296351194,1,1,1,"add(ror(xor(rdi, rsi), 8), lshr(rdx, 1))",4,4,594c4d06fd58c2932ec5687698b4604289b4398f2fe43eb48581bdf8d4710244,agy-hydrogen
+B,test_test_mba_rotate_mix_64_015,test_mba_rotate_mix_64,True,PASS,20.298115738667548,1,1,1,"add(ror(xor(rdi, rsi), 9), lshr(rdx, 4))",4,4,b97cdfb7a283115507c20d733ccadfea8cfa2e748841b33e20ef17c1de6f4f7f,agy-hydrogen
+B,test_test_mba_rotate_mix_64_016,test_mba_rotate_mix_64,True,PASS,18.47495780000463,1,1,1,"add(ror(xor(rdi, rsi), 13), lshr(rdx, 13))",4,4,61d98e00e21a46f74ced2da4b59017900622726cb4f2aebc3be7a1f6eb247b81,agy-hydrogen
+B,test_test_mba_rotate_mix_64_017,test_mba_rotate_mix_64,True,PASS,19.068214500322938,1,1,1,"add(ror(xor(rdi, rsi), 0x1f), lshr(rdx, 10))",4,4,080b7adee10df353c438bd58b7a8d52fe5ccf6d27ba95098e6b3e01c1a0bdcb8,agy-hydrogen
+B,test_test_mba_rotate_mix_64_018,test_mba_rotate_mix_64,True,PASS,18.91203271690756,1,1,1,"add(ror(xor(rdi, rsi), 3), lshr(rdx, 12))",4,4,0eca7e5b5a980f7018bbcd9cbe572bb6659ae4bedf4e2ccc8e075798cffd161c,agy-hydrogen
+B,test_test_mba_rotate_mix_64_019,test_mba_rotate_mix_64,True,PASS,19.895536644849926,1,1,1,"add(ror(xor(rdi, rsi), 6), lshr(rdx, 14))",4,4,5b4e87b6f2af65ca0537d509bc4bda36bec1a72e58171dcdcd6b09775de97b80,agy-hydrogen
+B,test_test_mba_rotate_mix_64_020,test_mba_rotate_mix_64,True,PASS,17.95668678311631,1,1,1,"add(ror(xor(rdi, rsi), 0x1e), lshr(rdx, 4))",4,4,7be9571c1de72dee408bb4c8d1c7c8e4583483fd7546e69ccb2a11a948420dbf,agy-hydrogen
+B,test_test_mba_sar_neg_32_001,test_mba_sar_neg_32,True,PASS,21.58125404501334,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 1), trunc32(rsi)), 0x33b2))",6,6,dcc685d92ca73a6e76fa9f355f6cf2ef2d041218242603e8d796a66b5878de53,agy-hydrogen
+B,test_test_mba_sar_neg_32_002,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,5.579142576083541,0,1,0,,,6,,agy-hydrogen parsed=0
+B,test_test_mba_sar_neg_32_003,test_mba_sar_neg_32,True,PASS,20.719802639912814,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 15), trunc32(rsi)), 0x6a4f))",6,6,cc28d1c69a9d5e4f5855d33456a442ae7ccdc75344d16ece18469e25f9587a5d,agy-hydrogen
+B,test_test_mba_sar_neg_32_004,test_mba_sar_neg_32,True,PASS,16.896989583969116,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 8), trunc32(rsi)), 0x90c))",6,6,4cad75ab08f74d2d6c85f817e970a57a7247e00dacba22d00b9e2d8b3a563c04,agy-hydrogen
+B,test_test_mba_sar_neg_32_005,test_mba_sar_neg_32,True,PASS,21.82875888608396,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 4), trunc32(rsi)), 0xc1b))",6,6,0a73470505d58db4353c6d9d41ae1274ffcf8d0de4079c2e74c88c533fa5b2fd,agy-hydrogen
+B,test_test_mba_sar_neg_32_006,test_mba_sar_neg_32,True,PASS,20.25517258606851,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 1), trunc32(rsi)), 0x2a82))",6,6,1309842c9194f8895605e15faf51b563540c3f12bffb17141bfc0a238d48cd33,agy-hydrogen
+B,test_test_mba_sar_neg_32_007,test_mba_sar_neg_32,True,PASS,18.664869579020888,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 1), trunc32(rsi)), 0x324e))",6,6,e7b08aa56006b15ada8941cd361f9412538e4a3469f7cef4890966fb62ecdca5,agy-hydrogen
+B,test_test_mba_sar_neg_32_008,test_mba_sar_neg_32,True,PASS,19.32493482111022,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 8), trunc32(rsi)), 0x1e37))",6,6,4f291b92f416c868a14b981314c16237c6b9277e21c049bafd8ef9ddb413f8c0,agy-hydrogen
+B,test_test_mba_sar_neg_32_009,test_mba_sar_neg_32,True,PASS,19.239221333991736,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 4), trunc32(rsi)), 0x3e3c))",6,6,a81be509d3cb5347b8712f64444bab631618da1dae0715ab4e1dff1a21546414,agy-hydrogen
+B,test_test_mba_sar_neg_32_010,test_mba_sar_neg_32,True,PASS,19.455120315775275,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 4), trunc32(rsi)), 0x5444))",6,6,385a56797dc77eea11cf2f5bd56d919380006f94d72142890f5cd1b5d4ea29ff,agy-hydrogen
+B,test_test_mba_sar_neg_32_011,test_mba_sar_neg_32,True,PASS,19.200321485754102,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 4), trunc32(rsi)), 0x7232))",6,6,31d72c16f0b6d07c84832c357cf526d44798c8b3c5cb7449695a72d9b9aa5647,agy-hydrogen
+B,test_test_mba_sar_neg_32_012,test_mba_sar_neg_32,True,PASS,17.5245121861808,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 7), trunc32(rsi)), 0x2acf))",6,6,0629863001a6fab4733f352bf41fde7eb573dc2d38677531f250c25ba1ac7dc0,agy-hydrogen
+B,test_test_mba_sar_neg_32_013,test_mba_sar_neg_32,True,PASS,22.94740893319249,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 5), trunc32(rsi)), 0x6432))",6,6,9cfa4d4e8502be6f6547edec41624236717d8cf4ea9f4ee1814575ec23e17ee8,agy-hydrogen
+B,test_test_mba_sar_neg_32_014,test_mba_sar_neg_32,True,PASS,21.267529923003167,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 10), trunc32(rsi)), 0x2735))",6,6,aad1abdbef4c0e960c382f19a6955e561f2d93a95d2196d2a9339d73513e0817,agy-hydrogen
+B,test_test_mba_sar_neg_32_015,test_mba_sar_neg_32,True,PASS,20.231773825827986,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 5), trunc32(rsi)), 0x2e5))",6,6,684dba3bcef4732de0695b51a9d71f3e9392474bda326edd9355b2ab7edceec7,agy-hydrogen
+B,test_test_mba_sar_neg_32_016,test_mba_sar_neg_32,True,PASS,21.257967818994075,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 14), trunc32(rsi)), 0x289e))",6,6,948a08cc8c240c7b94fe1fa275002861b659f0e49dbe2fea97373d1ccdf140e7,agy-hydrogen
+B,test_test_mba_sar_neg_32_017,test_mba_sar_neg_32,True,PASS,23.82199767837301,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 6), trunc32(rsi)), 0x67b8))",6,6,37c10ac080d4202f6edd2d9d9b673ed1166ac988b2fa955b9a501fd057d3434f,agy-hydrogen
+B,test_test_mba_sar_neg_32_018,test_mba_sar_neg_32,True,PASS,24.43548105796799,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 6), trunc32(rsi)), 0x1b77))",6,6,f5a8a9a03a78ffc153d78ed9fa7f76e2c7d4a801ab7282dc2fb3f5addbce59bc,agy-hydrogen
+B,test_test_mba_sar_neg_32_019,test_mba_sar_neg_32,True,PASS,23.566918867174536,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 13), trunc32(rsi)), 0x2964))",6,6,018455c7a2cc0414460255bf28fbfcb372c680312bdaa72561ed53a30e3cd90e,agy-hydrogen
+B,test_test_mba_sar_neg_32_020,test_mba_sar_neg_32,True,PASS,25.619988026097417,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 8), trunc32(rsi)), 0x7f98))",6,6,b2cc4bd2cba29ea993d2da4190015309247a2d1de074bec26f1afdbd42ff83be,agy-hydrogen
+B,test_test_mba_sbb_mask_64_001,test_mba_sbb_mask_64,True,PASS,30.021421452984214,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x56fb)",3,3,02ab7f9e500ab63c5dd2c9f49177d9027c5980a26e2048af5d901d885416ae1a,agy-hydrogen
+B,test_test_mba_sbb_mask_64_002,test_mba_sbb_mask_64,True,PASS,29.333736662287265,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x514c)",3,3,d9834b77d6f0045c061e135b64726c6daab07d0628834f72bb2630362954211d,agy-hydrogen
+B,test_test_mba_sbb_mask_64_003,test_mba_sbb_mask_64,True,PASS,27.652789366897196,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x72d5)",3,3,a774eae86ab82b20663496f47c83ed593b9efe97866e99efe9b9890e4ed64b80,agy-hydrogen
+B,test_test_mba_sbb_mask_64_004,test_mba_sbb_mask_64,True,PASS,22.878208685666323,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x15f7)",3,3,c2ede03dcc374c4f4cb65d29c1da63bdcb10b31109b3396d6adc7309bc769f8f,agy-hydrogen
+B,test_test_mba_sbb_mask_64_005,test_mba_sbb_mask_64,True,PASS,25.18623716617003,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x693f)",3,3,82e5a8ed68db06b4d14694cdee42967a35dc7da33a2ccbf67ceab3b0fcde2c6e,agy-hydrogen
+B,test_test_mba_sbb_mask_64_006,test_mba_sbb_mask_64,True,PASS,24.806117014959455,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x341b)",3,3,5154e38c5a2e4a78f975f14e113281be4f8bc7e40b827e0670ec212d11847a39,agy-hydrogen
+B,test_test_mba_sbb_mask_64_007,test_mba_sbb_mask_64,True,PASS,42.35142297530547,2,1,2,"add(sbb(rdi, rsi, cf), add(rdx, 0x78d2))",3,3,6380101f08e9e140a760c04be22b2ab5cb065f81391aebaae58a6c893167db83,agy-hydrogen
+B,test_test_mba_sbb_mask_64_008,test_mba_sbb_mask_64,True,PASS,24.89368079509586,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x5cba)",3,3,22825efbb1c1dc1dc6321c1c50a481d0c8cd26f67669698d10ea00eb24a485c0,agy-hydrogen
+B,test_test_mba_sbb_mask_64_009,test_mba_sbb_mask_64,True,PASS,29.764765325933695,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x461)",3,3,aedca32ebf6b60a555c4e0fcd3a4d0dd0d0efbfb4deed0ba217dbfe8d44871ed,agy-hydrogen
+B,test_test_mba_sbb_mask_64_010,test_mba_sbb_mask_64,True,PASS,27.86965560540557,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x1030)",3,3,d4f0404e67eb415e0b643b751dce9447766ce0442ca2dd45f05efa7b3b4adbc5,agy-hydrogen
+B,test_test_mba_sbb_mask_64_011,test_mba_sbb_mask_64,True,PASS,26.00822042580694,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x6808)",3,3,8e090e2db7db9d4193dd18f50abda6259cba135766580ecedd63d244eebd85d0,agy-hydrogen
+B,test_test_mba_sbb_mask_64_012,test_mba_sbb_mask_64,True,PASS,32.79620258277282,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x213c)",3,3,147e4b2c70db290600ede5fd3b94d71066ac51b4115881cf31e1091adb97c080,agy-hydrogen
+B,test_test_mba_sbb_mask_64_013,test_mba_sbb_mask_64,True,PASS,31.407805774826556,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x565c)",3,3,ae78e9f2342527d7a1bd509a60b40d951c0aab61f3f6b53afdf0516b3a9cf2b1,agy-hydrogen
+B,test_test_mba_sbb_mask_64_014,test_mba_sbb_mask_64,True,PASS,25.845884583890438,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0xfb1)",3,3,002847e823b54340f67ce292e5c1cc980791b4a2a0a75d88c1dd44d5bb371a3b,agy-hydrogen
+B,test_test_mba_sbb_mask_64_015,test_mba_sbb_mask_64,True,PASS,30.104056865908206,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x590e)",3,3,8c609c571fdf80c58b4111a23a8bb8d80b940ae5c66726226f593388b897432a,agy-hydrogen
+B,test_test_mba_sbb_mask_64_016,test_mba_sbb_mask_64,True,PASS,28.59587400080636,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x7ce3)",3,3,6fd98b4d6f17dd562bdcef944eac5b435950a918ce231cac689ed197bb4dd23a,agy-hydrogen
+B,test_test_mba_sbb_mask_64_017,test_mba_sbb_mask_64,True,PASS,28.926270372234285,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x36ca)",3,3,84ea5a6c82931754cdb43490c1c24068e88f78351470ae66626a436dfe6dcd04,agy-hydrogen
+B,test_test_mba_sbb_mask_64_018,test_mba_sbb_mask_64,True,PASS,25.55755201075226,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x43a3)",3,3,925ce0669e247e789eb1d2e257f38bcef0bc7c0e5c4c70e017653333dcfdcb71,agy-hydrogen
+B,test_test_mba_sbb_mask_64_019,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,68.30265490897,3,1,3,,,3,,agy-hydrogen parsed=8
+B,test_test_mba_sbb_mask_64_020,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,64.9004170820117,3,1,3,,,3,,agy-hydrogen parsed=8
+C,test_test_mba_3var_carry_64_001,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00002942280844,0,0,156947,,,4,,
+C,test_test_mba_3var_carry_64_002,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00008260225877,0,0,172146,,,4,,
+C,test_test_mba_3var_carry_64_003,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00033302791417,0,0,178847,,,4,,
+C,test_test_mba_3var_carry_64_004,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.000106648076326,0,0,170469,,,4,,
+C,test_test_mba_3var_carry_64_005,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.10154305631295,0,0,178973,,,4,,
+C,test_test_mba_3var_carry_64_006,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00005060900003,0,0,180673,,,4,,
+C,test_test_mba_3var_carry_64_007,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.071344676893204,0,0,178141,,,4,,
+C,test_test_mba_3var_carry_64_008,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00001249089837,0,0,181343,,,4,,
+C,test_test_mba_3var_carry_64_009,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.01083343476057,0,0,159293,,,4,,
+C,test_test_mba_3var_carry_64_010,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.000026118941605,0,0,172974,,,4,,
+C,test_test_mba_3var_carry_64_011,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00008661439642,0,0,163106,,,4,,
+C,test_test_mba_3var_carry_64_012,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00347854802385,0,0,172575,,,4,,
+C,test_test_mba_3var_carry_64_013,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00105395400897,0,0,201192,,,4,,
+C,test_test_mba_3var_carry_64_014,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00339491618797,0,0,192637,,,4,,
+C,test_test_mba_3var_carry_64_015,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00004687393084,0,0,203485,,,4,,
+C,test_test_mba_3var_carry_64_016,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.000377107877284,0,0,203237,,,4,,
+C,test_test_mba_3var_carry_64_017,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00087007088587,0,0,221314,,,4,,
+C,test_test_mba_3var_carry_64_018,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00095312576741,0,0,199745,,,4,,
+C,test_test_mba_3var_carry_64_019,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.00020131887868,0,0,211328,,,4,,
+C,test_test_mba_3var_carry_64_020,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,60.01420059101656,0,0,200545,,,4,,
+C,test_test_mba_3var_linear_64_001,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,60.00038910889998,0,0,229798,,,3,,
+C,test_test_mba_3var_linear_64_002,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,60.000099040102214,0,0,218656,,,3,,
+C,test_test_mba_3var_linear_64_003,test_mba_3var_linear_64,True,PASS,60.11355243111029,1,0,182822,"xor(shl(0x13d8, xor(rsi, rsi)), add(rsi, sub(rdi, rdx)))",3,3,953d10c69dccc602d16a378946d793132e328a95371e49695d36ea6d62ae1e5b,MCMC-CEGIS (restarts=1218)
+C,test_test_mba_3var_linear_64_004,test_mba_3var_linear_64,True,PASS,61.42320921132341,1,0,169183,"xor(sub(mul(rdi, 1), sub(rdx, rsi)), 0x6382)",3,3,f9f1f3aeed59766a1873416508add65b3ab2d68d0f6d02b25e4c83d7ea6b04f3,MCMC-CEGIS (restarts=1127)
+C,test_test_mba_3var_linear_64_005,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,60.00002382835373,0,0,220409,,,3,,
+C,test_test_mba_3var_linear_64_006,test_mba_3var_linear_64,True,PASS,48.643941750284284,1,0,170216,"xor(sub(add(rdi, rsi), rdx), add(0, 0x59b1))",3,3,a4d3e201ae048aea7c605773332c8bf65463995cb7a6d90a25d3234271bf1490,MCMC-CEGIS (restarts=1134)
+C,test_test_mba_3var_linear_64_007,test_mba_3var_linear_64,True,PASS,21.359536617062986,1,0,44429,"xor(sub(add(rdi, rsi), rdx), 0x7045)",3,3,9fc434791eaaaeb80a246c127fabf2e93b3c7b66f00aed869e9ce9b978e24347,MCMC-CEGIS (restarts=296)
+C,test_test_mba_3var_linear_64_008,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,63.68352537602186,1,0,221999,,,3,,
+C,test_test_mba_3var_linear_64_009,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,60.00019579380751,0,0,228098,,,3,,
+C,test_test_mba_3var_linear_64_010,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,60.1110850200057,0,0,233557,,,3,,
+C,test_test_mba_3var_linear_64_011,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,62.11304726311937,1,0,243252,,,3,,
+C,test_test_mba_3var_linear_64_012,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,60.000023554079235,0,0,239444,,,3,,
+C,test_test_mba_3var_linear_64_013,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,60.01228341879323,0,0,240258,,,3,,
+C,test_test_mba_3var_linear_64_014,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,61.10213969089091,1,0,242902,,,3,,
+C,test_test_mba_3var_linear_64_015,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,60.03466222109273,0,0,221678,,,3,,
+C,test_test_mba_3var_linear_64_016,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,60.00150645012036,0,0,217977,,,3,,
+C,test_test_mba_3var_linear_64_017,test_mba_3var_linear_64,True,PASS,46.67137698782608,2,0,52015,"xor(add(rsi, sub(rdi, rdx)), 0x7c83)",3,3,f3976c64b17c3b1c88901936ff5e73d2d41ec740a2387c6201900e19dc90603e,MCMC-CEGIS (restarts=346)
+C,test_test_mba_3var_linear_64_018,test_mba_3var_linear_64,True,PASS,41.58014095108956,1,0,71945,"xor(sub(rdi, sub(rdx, rsi)), 0x69a7)",3,3,66229868f4d5524a9990e3ab9a31c36789bf308a19dd43b034a0f14aa2c3b809,MCMC-CEGIS (restarts=479)
+C,test_test_mba_3var_linear_64_019,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,60.00005571404472,0,0,224541,,,3,,
+C,test_test_mba_3var_linear_64_020,test_mba_3var_linear_64,False,FAIL_EXHAUSTED,60.00007563410327,0,0,222910,,,3,,
+C,test_test_mba_adc_chain_32_001,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.002751720137894,0,0,176177,,,7,,
+C,test_test_mba_adc_chain_32_002,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.00000263378024,0,0,167928,,,7,,
+C,test_test_mba_adc_chain_32_003,test_mba_adc_chain_32,True,PASS,15.046084336005151,1,0,41773,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), add32(0, 0x599d)))",7,7,5e062d00cbc61f2eaf28341e92b6a0a2bf4d72b381862d94ad702961633fa807,MCMC-CEGIS (restarts=278)
+C,test_test_mba_adc_chain_32_004,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.00140165910125,0,0,165501,,,7,,
+C,test_test_mba_adc_chain_32_005,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.00437701493502,0,0,165295,,,7,,
+C,test_test_mba_adc_chain_32_006,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.000090423971415,0,0,174975,,,7,,
+C,test_test_mba_adc_chain_32_007,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.000180481001735,0,0,165730,,,7,,
+C,test_test_mba_adc_chain_32_008,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.04475824069232,0,0,171072,,,7,,
+C,test_test_mba_adc_chain_32_009,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.00263758795336,0,0,164463,,,7,,
+C,test_test_mba_adc_chain_32_010,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.00082377623767,0,0,172779,,,7,,
+C,test_test_mba_adc_chain_32_011,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.00004016794264,0,0,142829,,,7,,
+C,test_test_mba_adc_chain_32_012,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.00018349522725,0,0,151294,,,7,,
+C,test_test_mba_adc_chain_32_013,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.000024931970984,0,0,148898,,,7,,
+C,test_test_mba_adc_chain_32_014,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.00000875303522,0,0,167749,,,7,,
+C,test_test_mba_adc_chain_32_015,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.01614681631327,0,0,162036,,,7,,
+C,test_test_mba_adc_chain_32_016,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.00669719418511,0,0,154190,,,7,,
+C,test_test_mba_adc_chain_32_017,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.00009890738875,0,0,156154,,,7,,
+C,test_test_mba_adc_chain_32_018,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.00016233092174,0,0,179803,,,7,,
+C,test_test_mba_adc_chain_32_019,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.00003202725202,0,0,173139,,,7,,
+C,test_test_mba_adc_chain_32_020,test_mba_adc_chain_32,False,FAIL_EXHAUSTED,60.02912109391764,0,0,162585,,,7,,
+C,test_test_mba_nand_nor_add_64_001,test_mba_nand_nor_add_64,True,PASS,6.049736720975488,1,0,7082,"xor(add(rdi, rsi), 0x3616)",2,2,66cd9808b8886ac3dfecdaa886597e9bf76397d19b4a9dc4343882346088befe,MCMC-CEGIS (restarts=47)
+C,test_test_mba_nand_nor_add_64_002,test_mba_nand_nor_add_64,True,PASS,4.916883514728397,1,0,87,"xor(0x6fc9, add(rsi, rdi))",2,2,dd2e8c0106a28984d50a26aea71d017e2df04a6f962df785707ee89c9adf5a27,MCMC-CEGIS (restarts=0)
+C,test_test_mba_nand_nor_add_64_003,test_mba_nand_nor_add_64,True,PASS,4.066280848346651,1,0,2750,"xor(or(1, 0x3bf3), add(rdi, rsi))",2,2,7ed5fb551b48c08104f344f13810d97edb1f971d39476f0a78f49a5b470e358e,MCMC-CEGIS (restarts=18)
+C,test_test_mba_nand_nor_add_64_004,test_mba_nand_nor_add_64,True,PASS,2.9031610917299986,1,0,614,"xor(add(rdi, rsi), 0x5118)",2,2,c495c10709aa3055a4e0951231a9d768261423564433cf119579863ff37e8db6,MCMC-CEGIS (restarts=4)
+C,test_test_mba_nand_nor_add_64_005,test_mba_nand_nor_add_64,True,PASS,5.304276973940432,1,0,4345,"xor(or(0x764e, 2), add(rsi, rdi))",2,2,17f6033e80be74d78437d1130a57b41d2366e4d5462c771bf0305089552e1438,MCMC-CEGIS (restarts=28)
+C,test_test_mba_nand_nor_add_64_006,test_mba_nand_nor_add_64,True,PASS,3.043091846164316,1,0,1588,"xor(xor(0, 0x4047), add(rsi, rdi))",2,2,c08beeeefb0bd33e1342149d0ef10d3a8eb3512d97a648230a03bb4e9b179dd7,MCMC-CEGIS (restarts=10)
+C,test_test_mba_nand_nor_add_64_007,test_mba_nand_nor_add_64,True,PASS,2.686229716055095,1,0,2382,"xor(add(rdi, rsi), 0x61f3)",2,2,f8ecf50bb280b726b5c7823d31b2e4f25ddedd83a4282fa331e52f916ad711df,MCMC-CEGIS (restarts=15)
+C,test_test_mba_nand_nor_add_64_008,test_mba_nand_nor_add_64,True,PASS,3.41144218435511,1,0,4216,"xor(add(rsi, rdi), 0x45cb)",2,2,138cfc1f00303bc2ee37ae05c2c154b4630ffbe898d91497afccfcd0ad6e75d9,MCMC-CEGIS (restarts=28)
+C,test_test_mba_nand_nor_add_64_009,test_mba_nand_nor_add_64,True,PASS,3.91603330289945,1,0,3971,"xor(0x5506, add(rdi, rsi))",2,2,bb075c85894e86afba5f8295f122d2dc953afa3c4d80911226069c07c430f722,MCMC-CEGIS (restarts=26)
+C,test_test_mba_nand_nor_add_64_010,test_mba_nand_nor_add_64,True,PASS,4.449182554613799,1,0,7606,"xor(0x2675, add(rsi, rdi))",2,2,33f457b3059816a57e087caad8828771d741a8b1248966fdb2d2cb47e477517f,MCMC-CEGIS (restarts=50)
+C,test_test_mba_nand_nor_add_64_011,test_mba_nand_nor_add_64,True,PASS,2.6332328687421978,1,0,1404,"xor(0x5d98, add(rsi, rdi))",2,2,63ca3ef71fa2c894c31a7671cce20d53b4a90dfcd0534e1ab9fef2e4042b6616,MCMC-CEGIS (restarts=9)
+C,test_test_mba_nand_nor_add_64_012,test_mba_nand_nor_add_64,True,PASS,4.258261976763606,1,0,5051,"xor(xor(0x17f0, sub(rdi, rdi)), add(rsi, rdi))",2,2,8057bade3e847ffe45eeaa136455485e2bf4b2d91218333c604e2a0d13a56588,MCMC-CEGIS (restarts=33)
+C,test_test_mba_nand_nor_add_64_013,test_mba_nand_nor_add_64,True,PASS,5.17149894637987,1,0,4366,"xor(0x1842, add(rsi, rdi))",2,2,39700f24a3b43c1005f88528631c19982ed42eda064b4586bda15f69229a7500,MCMC-CEGIS (restarts=29)
+C,test_test_mba_nand_nor_add_64_014,test_mba_nand_nor_add_64,True,PASS,6.889716616366059,1,0,11788,"xor(add(rsi, rdi), 0x50bc)",2,2,7e8d82d092cac5b15658f53d3d50037efc396e5a87e3cbeb526eb3d90568a577,MCMC-CEGIS (restarts=78)
+C,test_test_mba_nand_nor_add_64_015,test_mba_nand_nor_add_64,True,PASS,3.9319262569770217,1,0,4993,"xor(add(rdi, rsi), 0x58c6)",2,2,d763055f11450385511f276265eb10c8f6392b3869c4bf743ed7fa097f9dfec7,MCMC-CEGIS (restarts=33)
+C,test_test_mba_nand_nor_add_64_016,test_mba_nand_nor_add_64,True,PASS,3.260440913029015,1,0,3581,"xor(add(rsi, rdi), 0x7422)",2,2,11a9878a9505cb53feedda6ba621471c673fa58591e736ba139daaf1e4b610bc,MCMC-CEGIS (restarts=23)
+C,test_test_mba_nand_nor_add_64_017,test_mba_nand_nor_add_64,True,PASS,2.9211752573028207,1,0,4268,"mul(xor(add(rdi, rsi), 0x3c4d), 1)",2,2,d55c88f6e83594dcb106e9bc55165af3e14956879424bff8f5e6178af65fdb49,MCMC-CEGIS (restarts=28)
+C,test_test_mba_nand_nor_add_64_018,test_mba_nand_nor_add_64,True,PASS,4.094510950148106,1,0,9493,"xor(add(lshr(0x3952, lshr(1, 2)), sub(rdi, rdi)), add(rsi, rdi))",2,2,bbbc09754656bc10ec4630286f0d981c3d0114c593692d9e09aed6e44a102a6a,MCMC-CEGIS (restarts=63)
+C,test_test_mba_nand_nor_add_64_019,test_mba_nand_nor_add_64,True,PASS,5.2596827507950366,1,0,6894,"xor(add(rsi, rdi), 0x47a1)",2,2,8636214b0faa84dfb4963ddec0befdec161e0b6f7ddcd631a566de2905034fbe,MCMC-CEGIS (restarts=45)
+C,test_test_mba_nand_nor_add_64_020,test_mba_nand_nor_add_64,True,PASS,4.719483856111765,1,0,3556,"xor(0x5943, add(rdi, rsi))",2,2,22633dc509f09ab148a2e447f611d5944a791518587116a9c3aafc000a8faa45,MCMC-CEGIS (restarts=23)
+C,test_test_mba_or_and_sub_64_001,test_mba_or_and_sub_64,True,PASS,40.84364957874641,1,0,153186,"rol(add(0x5ce7, xor(rsi, rdi)), 4)",3,3,08ef7ec4380039d7f46aa6571bd1ad8005fab61ee6e009c1817e497f84f151f1,MCMC-CEGIS (restarts=1021)
+C,test_test_mba_or_and_sub_64_002,test_mba_or_and_sub_64,True,PASS,54.74084360990673,1,0,215170,"ror(add(0x4b7b, xor(rdi, rsi)), xor(not(0), sub(rsi, rsi)))",3,3,0cb1022585dced9096cd149353e70e171cd21fe95b57dbb64e7c73177eb65f9a,MCMC-CEGIS (restarts=1434)
+C,test_test_mba_or_and_sub_64_003,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.000615569762886,0,0,218207,,,3,,
+C,test_test_mba_or_and_sub_64_004,test_mba_or_and_sub_64,True,PASS,36.46370120672509,1,0,124848,"rol(add(0x2930, xor(rdi, rsi)), 7)",3,3,a61c86ab0614326c20b179ccda16f35788207eb2078058dccb7c4275826f3c83,MCMC-CEGIS (restarts=832)
+C,test_test_mba_or_and_sub_64_005,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.08482797630131,0,0,223101,,,3,,
+C,test_test_mba_or_and_sub_64_006,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.10382492188364,0,0,225334,,,3,,
+C,test_test_mba_or_and_sub_64_007,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.004305091220886,0,0,240550,,,3,,
+C,test_test_mba_or_and_sub_64_008,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.000145302154124,0,0,213857,,,3,,
+C,test_test_mba_or_and_sub_64_009,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.02418790291995,0,0,212184,,,3,,
+C,test_test_mba_or_and_sub_64_010,test_mba_or_and_sub_64,True,PASS,51.66331621399149,1,0,184781,"rol(add(xor(rsi, rdi), 0x617), 5)",3,3,90ff36d455daf71bf251e6d81d80d4e8e50069b8f73c3f1e1632e0f28305223e,MCMC-CEGIS (restarts=1231)
+C,test_test_mba_or_and_sub_64_011,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.000099210999906,0,0,227423,,,3,,
+C,test_test_mba_or_and_sub_64_012,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.00006548454985,0,0,225610,,,3,,
+C,test_test_mba_or_and_sub_64_013,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.09141373028979,0,0,222237,,,3,,
+C,test_test_mba_or_and_sub_64_014,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.00431682402268,0,0,213866,,,3,,
+C,test_test_mba_or_and_sub_64_015,test_mba_or_and_sub_64,True,PASS,45.95144239393994,1,0,162837,"rol(add(xor(rsi, rdi), 0x720), 3)",3,3,29583ae3c142c004be16f1d84442f928d27ae1d0fa2bc67c0f3d4ee4e41211fb,MCMC-CEGIS (restarts=1085)
+C,test_test_mba_or_and_sub_64_016,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.00005374895409,0,0,217626,,,3,,
+C,test_test_mba_or_and_sub_64_017,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.000010354910046,0,0,191109,,,3,,
+C,test_test_mba_or_and_sub_64_018,test_mba_or_and_sub_64,True,PASS,23.326865492854267,1,0,77883,"rol(add(xor(rdi, rsi), 0x6520), 6)",3,3,968ca8cf7b86c0e5cc0b8c5fb446215e3088b0fbe28ebbdde2b5eda8ae98b471,MCMC-CEGIS (restarts=519)
+C,test_test_mba_or_and_sub_64_019,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.0259962528944,0,0,216648,,,3,,
+C,test_test_mba_or_and_sub_64_020,test_mba_or_and_sub_64,False,FAIL_EXHAUSTED,60.001601675059646,0,0,200354,,,3,,
+C,test_test_mba_rotate_mix_64_001,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.000415332149714,0,0,188657,,,4,,
+C,test_test_mba_rotate_mix_64_002,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.000019447878,0,0,176128,,,4,,
+C,test_test_mba_rotate_mix_64_003,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.00106905493885,0,0,188103,,,4,,
+C,test_test_mba_rotate_mix_64_004,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.03127156198025,0,0,180856,,,4,,
+C,test_test_mba_rotate_mix_64_005,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.160300412680954,0,0,168807,,,4,,
+C,test_test_mba_rotate_mix_64_006,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.001315577887,0,0,167277,,,4,,
+C,test_test_mba_rotate_mix_64_007,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.034270769916475,0,0,167091,,,4,,
+C,test_test_mba_rotate_mix_64_008,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.01973278820515,0,0,140797,,,4,,
+C,test_test_mba_rotate_mix_64_009,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.01006617676467,0,0,148585,,,4,,
+C,test_test_mba_rotate_mix_64_010,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.00949684297666,0,0,145234,,,4,,
+C,test_test_mba_rotate_mix_64_011,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.04006790369749,0,0,128900,,,4,,
+C,test_test_mba_rotate_mix_64_012,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.04989090608433,0,0,111848,,,4,,
+C,test_test_mba_rotate_mix_64_013,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.000020429026335,0,0,135755,,,4,,
+C,test_test_mba_rotate_mix_64_014,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.00010561523959,0,0,142726,,,4,,
+C,test_test_mba_rotate_mix_64_015,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.00028050178662,0,0,135166,,,4,,
+C,test_test_mba_rotate_mix_64_016,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.00012235669419,0,0,142578,,,4,,
+C,test_test_mba_rotate_mix_64_017,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.1156661240384,0,0,166551,,,4,,
+C,test_test_mba_rotate_mix_64_018,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.0286289928481,0,0,196639,,,4,,
+C,test_test_mba_rotate_mix_64_019,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.000199157744646,0,0,162801,,,4,,
+C,test_test_mba_rotate_mix_64_020,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,60.00003324402496,0,0,164755,,,4,,
+C,test_test_mba_sar_neg_32_001,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.00016730930656,0,0,175148,,,6,,
+C,test_test_mba_sar_neg_32_002,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.000427186023444,0,0,176064,,,6,,
+C,test_test_mba_sar_neg_32_003,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.00429856264964,0,0,176193,,,6,,
+C,test_test_mba_sar_neg_32_004,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.001682217698544,0,0,179971,,,6,,
+C,test_test_mba_sar_neg_32_005,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.016757365781814,0,0,189303,,,6,,
+C,test_test_mba_sar_neg_32_006,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.010482667014,0,0,172556,,,6,,
+C,test_test_mba_sar_neg_32_007,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.00008586002514,0,0,179693,,,6,,
+C,test_test_mba_sar_neg_32_008,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.002985042054206,0,0,185706,,,6,,
+C,test_test_mba_sar_neg_32_009,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.0000966549851,0,0,166159,,,6,,
+C,test_test_mba_sar_neg_32_010,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.000108466949314,0,0,154676,,,6,,
+C,test_test_mba_sar_neg_32_011,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.00545772071928,0,0,174828,,,6,,
+C,test_test_mba_sar_neg_32_012,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.00012961495668,0,0,170677,,,6,,
+C,test_test_mba_sar_neg_32_013,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.00011667935178,0,0,180446,,,6,,
+C,test_test_mba_sar_neg_32_014,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.18764970684424,0,0,174172,,,6,,
+C,test_test_mba_sar_neg_32_015,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.00016746483743,0,0,179444,,,6,,
+C,test_test_mba_sar_neg_32_016,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.001672042068094,0,0,173868,,,6,,
+C,test_test_mba_sar_neg_32_017,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.41126924427226,0,0,164537,,,6,,
+C,test_test_mba_sar_neg_32_018,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.00002670567483,0,0,159676,,,6,,
+C,test_test_mba_sar_neg_32_019,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.002615046687424,0,0,171166,,,6,,
+C,test_test_mba_sar_neg_32_020,test_mba_sar_neg_32,False,FAIL_EXHAUSTED,60.00037556421012,0,0,179748,,,6,,
+C,test_test_mba_sbb_mask_64_001,test_mba_sbb_mask_64,True,PASS,26.306156300008297,1,0,62412,"add(sbb(rdi, rsi, cf), add(0x56fb, rdx))",3,3,3fe9dc28205caff031f8d482c5bf8929b5c9f66f8d62e04c9b8d74f38084f4e0,MCMC-CEGIS (restarts=416)
+C,test_test_mba_sbb_mask_64_002,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,60.00000938726589,0,0,207213,,,3,,
+C,test_test_mba_sbb_mask_64_003,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,64.5974110821262,3,0,42582,,,3,,
+C,test_test_mba_sbb_mask_64_004,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,60.00019230507314,1,0,162886,,,3,,
+C,test_test_mba_sbb_mask_64_005,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,60.000135864596814,1,0,130053,,,3,,
+C,test_test_mba_sbb_mask_64_006,test_mba_sbb_mask_64,True,PASS,40.49031361192465,1,0,99870,"add(sbb(rdi, rsi, cf), add(rdx, 0x341b))",3,3,62d0f03a3a993009703c806d24397d5f4147b10d042035ba768736ae2f3accd2,MCMC-CEGIS (restarts=665)
+C,test_test_mba_sbb_mask_64_007,test_mba_sbb_mask_64,True,PASS,36.40045488718897,1,0,97046,"add(sbb(rdi, rsi, cf), sub(rdx, neg(0x78d2)))",3,3,604c451da87555fb7a7aa0ac6020ec8e90c02391c5f94c9417c43af771c4ac33,MCMC-CEGIS (restarts=646)
+C,test_test_mba_sbb_mask_64_008,test_mba_sbb_mask_64,True,PASS,17.277908886782825,1,0,25164,"add(sbb(rdi, rsi, cf), add(0x5cba, rdx))",3,3,4d4ba28a6e7fbf8421755f49522480f0a955ef1fd14e4bb34e27654079b30347,MCMC-CEGIS (restarts=167)
+C,test_test_mba_sbb_mask_64_009,test_mba_sbb_mask_64,True,PASS,56.95078301196918,1,0,184289,"add(sbb(rdi, rsi, cf), add(0x461, rdx))",3,3,9af58a08502d72db4a6e43f245d4a5c7bba87b0fbe4cba1b0b339fd7542e3a42,MCMC-CEGIS (restarts=1228)
+C,test_test_mba_sbb_mask_64_010,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,60.000091158784926,0,0,237968,,,3,,
+C,test_test_mba_sbb_mask_64_011,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,60.00374736916274,1,0,150304,,,3,,
+C,test_test_mba_sbb_mask_64_012,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,65.75491958018392,2,0,91650,,,3,,
+C,test_test_mba_sbb_mask_64_013,test_mba_sbb_mask_64,True,PASS,22.874856314621866,1,0,56048,"add(sbb(rdi, rsi, cf), add(rdx, 0x565c))",3,3,60ee291cd5e4c2ca840b84ae1dea9be8c55ff243f75fb751d25b2e19b941ae38,MCMC-CEGIS (restarts=373)
+C,test_test_mba_sbb_mask_64_014,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,60.000069703906775,0,0,247201,,,3,,
+C,test_test_mba_sbb_mask_64_015,test_mba_sbb_mask_64,True,PASS,35.851995104923844,1,0,95971,"add(sbb(rdi, rsi, cf), add(rdx, 0x590e))",3,3,70b630eed1eee8f3da9ab76d8a4f2f3a04804bae932c3aa51ad781210d39cdd7,MCMC-CEGIS (restarts=639)
+C,test_test_mba_sbb_mask_64_016,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,65.62581371003762,2,0,110732,,,3,,
+C,test_test_mba_sbb_mask_64_017,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,60.00007635075599,1,0,142651,,,3,,
+C,test_test_mba_sbb_mask_64_018,test_mba_sbb_mask_64,True,PASS,61.82359336409718,1,0,225214,"add(sbb(rdi, rsi, cf), mul(add(rdx, 0x43a3), 1))",3,3,c39cef21e474c092ff2a18121de761defe020ce76f16ceb747833f3e4580af58,MCMC-CEGIS (restarts=1501)
+C,test_test_mba_sbb_mask_64_019,test_mba_sbb_mask_64,False,FAIL_EXHAUSTED,63.450065376237035,2,0,87456,,,3,,
+C,test_test_mba_sbb_mask_64_020,test_mba_sbb_mask_64,True,PASS,41.603402911219746,1,0,128599,"add(sbb(rdi, rsi, cf), add(rdx, 0x2b74))",3,3,e1ae04706e5536f89b1c06a51521b0202fca10e83e83caa663433c0079d8090d,MCMC-CEGIS (restarts=857)
+D,test_test_mba_3var_carry_64_001,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,58.31620700377971,1,3,2,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_3var_carry_64_002,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,58.472143094055355,0,3,0,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_3var_carry_64_003,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,59.14407146861777,1,3,2,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_3var_carry_64_004,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,58.533884142991155,0,3,0,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_3var_carry_64_005,test_mba_3var_carry_64,True,PASS,49.50443071778864,1,2,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x6ed8)",4,4,4d9d11436dc45d8dc520818d25af0417292f24a2a4b0a919e427873298c401f3,agy-hydrogen round=2
+D,test_test_mba_3var_carry_64_006,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,63.3615049556829,1,3,1,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_3var_carry_64_007,test_mba_3var_carry_64,True,PASS,44.677430018316954,2,1,2,"xor(sub(xor(rdx, adc(rdi, rsi, cf)), rcx), 0x15d2)",4,4,c3f06373ded299f3be223ac3447ce0bc96bac34c1698da1dcea85f1ae671c2ab,agy-hydrogen round=1
+D,test_test_mba_3var_carry_64_008,test_mba_3var_carry_64,True,PASS,61.281029608566314,2,2,3,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0xe2c)",4,4,f1caa79a63983cc7c7e27e7f70d8564b5316169d5a5420dcfe7cb8ad883bf023,agy-hydrogen round=2
+D,test_test_mba_3var_carry_64_009,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,63.955884096678346,1,3,1,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_3var_carry_64_010,test_mba_3var_carry_64,True,PASS,51.38021693518385,1,2,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x5123)",4,4,7116d0e7bc96fbac3c1848c83521d0a8a1d75615b199ddfa4afbc11bf1ed406d,agy-hydrogen round=2
+D,test_test_mba_3var_carry_64_011,test_mba_3var_carry_64,True,PASS,32.70364619186148,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x73)",4,4,cbb22c99a0d8137741b1959f97ff749b9f53f1e853884c8d38c60dd86f4d8e57,agy-hydrogen round=1
+D,test_test_mba_3var_carry_64_012,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,63.19409872405231,1,3,1,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_3var_carry_64_013,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,58.25425200397149,1,3,2,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_3var_carry_64_014,test_mba_3var_carry_64,True,PASS,34.122371232137084,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x3f85)",4,4,c53153688fb30a53dbfba2aadc037bf321d288708fb2a758b50dd7e1721e6f37,agy-hydrogen round=1
+D,test_test_mba_3var_carry_64_015,test_mba_3var_carry_64,True,PASS,46.94137579621747,1,2,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x3e46)",4,4,b2fb70e2bf6944cbde7e5d7d43a865067a452e42976a49400727a021f79b05a7,agy-hydrogen round=2
+D,test_test_mba_3var_carry_64_016,test_mba_3var_carry_64,True,PASS,48.35217722086236,1,2,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x421b)",4,4,72be556aee946c86dfcabba80ce488b065b0b926aa9d9ad1bc7743ef859a92f3,agy-hydrogen round=2
+D,test_test_mba_3var_carry_64_017,test_mba_3var_carry_64,True,PASS,28.284245905000716,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x109f)",4,4,dd9bf9d8fd23e75cdb121c2ed2e9a0f81300694a3adbd0dea05195f2e6ebe816,agy-hydrogen round=1
+D,test_test_mba_3var_carry_64_018,test_mba_3var_carry_64,False,FAIL_EXHAUSTED,63.920634565874934,1,3,1,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_3var_carry_64_019,test_mba_3var_carry_64,True,PASS,25.35970334103331,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x2a2b)",4,4,ff8e7511867cd7357e31d152555bea096b78639b3d6b26d14ebc9f509f62f404,agy-hydrogen round=1
+D,test_test_mba_3var_carry_64_020,test_mba_3var_carry_64,True,PASS,21.984693728853017,1,1,1,"xor(sub(xor(adc(rdi, rsi, cf), rdx), rcx), 0x6bfe)",4,4,5f723ddd394d878780ce9a7bc65d34481f926397e39131b5a6317f28b61c6e1e,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_001,test_mba_3var_linear_64,True,PASS,19.251852998044342,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0xf2c)",3,3,ba63e0c2fa17348e67fb5cead1bce0205eac257fdbb7fe39d94f8b5972364bfb,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_002,test_mba_3var_linear_64,True,PASS,24.26035307906568,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x1530)",3,3,8b0a236a5ad682a83edb3955f783a00a7e6e0e2bffda89cc1db897e580318009,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_003,test_mba_3var_linear_64,True,PASS,23.133131147827953,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x13d8)",3,3,2d80e0d73b4b0f9df106cceb0a4cf861c5bcb92da317d0ec79c918f521ede40d,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_004,test_mba_3var_linear_64,True,PASS,22.989555803127587,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x6382)",3,3,d76dd953fc6e4eca40fc90c44f4c1247ec1402392cae1c2038f71511ea21fc2c,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_005,test_mba_3var_linear_64,True,PASS,21.768648935947567,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x5650)",3,3,2b114460529ccca3f13f8d84f6aebbf5b71cd01e47f4fa9d0494bd72e3f6bb6b,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_006,test_mba_3var_linear_64,True,PASS,21.758168722037226,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x59b1)",3,3,6fe7718b5a4bc404fe316f6a2b152912ef15d20523eca8580a6632bce4f1c616,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_007,test_mba_3var_linear_64,True,PASS,20.81085941568017,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x7045)",3,3,07fd11e9cc5c6390e7467dcd6a53c217e57e5b227e63d422c6ab4276cbe121fe,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_008,test_mba_3var_linear_64,True,PASS,19.820208268705755,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x35b2)",3,3,5535b8cf372c6bda14c9cd290d1e523385225b4a58892caef5f48c1a2cb31f50,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_009,test_mba_3var_linear_64,True,PASS,20.076867156196386,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x58b8)",3,3,530d7a2e1aec1546ac34cd1846c1bdca5fd8f2ac14583ea4d8421650fa9a592a,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_010,test_mba_3var_linear_64,True,PASS,19.01157784834504,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0xbeb)",3,3,c9908fa556517f10b093a1c4247d53d34932e6b013bed74d70dd793be7a398df,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_011,test_mba_3var_linear_64,True,PASS,19.194485133048147,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x32a3)",3,3,9b0bb669d4f07fa6852e083caedc2f20793c9d128ae3addc8d59ef608cf5616b,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_012,test_mba_3var_linear_64,True,PASS,18.628107047174126,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0xcec)",3,3,f0f996aa3cee160c674dab4da62aed00834b9b8835e5e00c80e78075fec6803b,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_013,test_mba_3var_linear_64,True,PASS,17.820281661115587,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x5cce)",3,3,d2e0dfef0fac21590409d72ef6ed864a52aabf1ea7105b10c6a0751962a15ec2,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_014,test_mba_3var_linear_64,True,PASS,18.836436450015754,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x5082)",3,3,89766047dd21888cc8af51925b1456cc10bdb8bfc562e1ad98e656cf174729ee,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_015,test_mba_3var_linear_64,True,PASS,21.814264185726643,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x5fc0)",3,3,e16002b288360d7786cc8a001fc8503edfb126265df49eb4c724fbbbedb85f65,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_016,test_mba_3var_linear_64,True,PASS,20.780961516313255,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x1964)",3,3,43b6244e6d5a89de61bb79c183ea3e4e04613a05736aca31cd463f714060c152,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_017,test_mba_3var_linear_64,True,PASS,20.53331511700526,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x7c83)",3,3,3a6584b766d90a3a015dd185aa68ce4fdca2ff2d22617a42b8d9d76ad54575dd,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_018,test_mba_3var_linear_64,True,PASS,26.78369662212208,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x69a7)",3,3,114c768b72ff8533a944eadb1375386eb5b7dd12c847069e5029981892e36235,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_019,test_mba_3var_linear_64,True,PASS,28.41837293235585,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x432e)",3,3,a27bb1c66c9bf9531f0769e74606afa839cdd7f3897e7d2dbe4c8c70b8ec1d9f,agy-hydrogen round=1
+D,test_test_mba_3var_linear_64_020,test_mba_3var_linear_64,True,PASS,27.3771357499063,1,1,1,"xor(sub(add(rdi, rsi), rdx), 0x1b98)",3,3,07f9bf7684d8ad2e3c28b1de1c2df9415291e0a10ba2bd4c6ca992d5545f85f4,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_001,test_mba_adc_chain_32,True,PASS,18.718551479745656,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x14e6))",7,7,b7451b3e2802fa010b9c634ad318c584534f3ee9f5dfa2bdd78c0caaa38bbea7,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_002,test_mba_adc_chain_32,True,PASS,39.1913093496114,1,2,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x5bbc))",7,7,ccdd3db2e62a13f254ba5ce80efc29f135c88fc2b5602434615fd2bb9b7ee909,agy-hydrogen round=2
+D,test_test_mba_adc_chain_32_003,test_mba_adc_chain_32,True,PASS,39.468985695857555,1,2,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x599d))",7,7,524c2cb68ff66eb4549af6cf7c107a4fb382f5682947937d27ad5e07aee951ea,agy-hydrogen round=2
+D,test_test_mba_adc_chain_32_004,test_mba_adc_chain_32,True,PASS,17.978256796021014,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x515e))",7,7,60879592e0b7065d7aa6fd8815e7ac19ee0b7e1e3c42d2315a12bc5849e8bb85,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_005,test_mba_adc_chain_32,True,PASS,16.25104485079646,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x25b5))",7,7,4f8dbc4b36469f9a6a816b99fcbe1616027ff1b0b99c4246532131b74420e046,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_006,test_mba_adc_chain_32,True,PASS,16.363158938940614,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x2030))",7,7,2ffb2523eaadac3e3b0202439d6a2b50dbf9686f7b8d8a8df892f60098c1fee8,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_007,test_mba_adc_chain_32,True,PASS,20.449330291710794,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x7523))",7,7,1ffdb62461a350c030584a7eb4474fa0fdec1bdef6588d1a8c8a79102d0d7aa4,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_008,test_mba_adc_chain_32,True,PASS,17.406247154809535,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x6ff4))",7,7,ff4d0e472754391cfa4863fb0856d22067d8d7755f14e5794bbb991b6f4dbacc,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_009,test_mba_adc_chain_32,True,PASS,14.429999739862978,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x4260))",7,7,64f3fcb2d564967805ded46ccc6b71dbd854da5cd3132d0237221738d509e5bb,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_010,test_mba_adc_chain_32,True,PASS,18.33001252496615,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x2aab))",7,7,0be0cab6471df502b18c1e8c18d4f873bf7df342cd415072eb4e96433f0963a2,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_011,test_mba_adc_chain_32,True,PASS,18.41684595681727,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x3387))",7,7,2b29bdca7f13db64db4072021a1634641426d82ac6ddf9b5979b02ca6de67385,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_012,test_mba_adc_chain_32,True,PASS,15.299548192881048,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x17c7))",7,7,ffce6cdc3bd92ddbda5417e0312fac965910bdd0bef59da4a77795fc78784ad1,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_013,test_mba_adc_chain_32,True,PASS,17.05217721965164,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x786a))",7,7,cc4b4b581790742a29761eac6aedf050a01ca3af764448d3b5ace855481f4742,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_014,test_mba_adc_chain_32,True,PASS,14.224500473123044,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x4522))",7,7,41480704513b359865ac44d808241fbd70b6aed5a4856fb144971115ef45c1c6,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_015,test_mba_adc_chain_32,True,PASS,15.914080315735191,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x37c4))",7,7,0107c181dca7c60a2f99deae40ed1ea5e75ab965308d1e8600ad10ca716430b3,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_016,test_mba_adc_chain_32,True,PASS,14.896845587994903,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x2777))",7,7,91d8357f6bbf3ad108cb21f4d9f5b037db37927e81f722fe8a396128665870c9,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_017,test_mba_adc_chain_32,True,PASS,17.045814984012395,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x53fd))",7,7,836b7b47eaa024b65fc76bb4a30b103d5844fc57a01dde7e9584560af83598e4,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_018,test_mba_adc_chain_32,True,PASS,17.371458652894944,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x1aef))",7,7,0f9b33a0952634ead1677a06800c2f5d9aacc89a1946c500effc236168b63e11,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_019,test_mba_adc_chain_32,True,PASS,15.484633705113083,1,1,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x5700))",7,7,4996d4f2b92ccc7bb61921a4c961a1448f4535200669a1829d59e82e96e51da1,agy-hydrogen round=1
+D,test_test_mba_adc_chain_32_020,test_mba_adc_chain_32,True,PASS,39.15112871490419,1,2,1,"zext64(xor32(sub32(adc32(trunc32(rdi), trunc32(rsi), cf), trunc32(rdx)), 0x4ef1))",7,7,57dbf8207a122671a55e5753878d1bd08912eec30d9914e4c39f15879d20662f,agy-hydrogen round=2
+D,test_test_mba_nand_nor_add_64_001,test_mba_nand_nor_add_64,True,PASS,18.07920529600233,1,1,1,"xor(add(rdi, rsi), 0x3616)",2,2,93bfefba53fe0507371b97d8a66b3b31fcde831d7b75611d2c67417d15c43d7d,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_002,test_mba_nand_nor_add_64,True,PASS,18.421915576793253,1,1,1,"xor(add(rdi, rsi), 0x6fc9)",2,2,712f597f1d7afeae6ab27ce392745ce3479684a08ba570a4aab3ed26133d2f86,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_003,test_mba_nand_nor_add_64,True,PASS,17.838296997360885,1,1,1,"xor(add(rdi, rsi), 0x3bf3)",2,2,53e663311d9164b853d37b7dd0bb6e80d8ee8256cd8ee6f4b1645527d62d8488,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_004,test_mba_nand_nor_add_64,True,PASS,17.98342797998339,1,1,1,"xor(add(rdi, rsi), 0x5118)",2,2,9e190504ec1e638210891b254d26dd8b59f2167c3148383efbb51218df8a4b5e,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_005,test_mba_nand_nor_add_64,True,PASS,17.113595623057336,1,1,1,"xor(add(rdi, rsi), 0x764e)",2,2,63cf90059a498b946813df652a03d52bfaf02c4ab7dd59eb3e9f2f98ae09feae,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_006,test_mba_nand_nor_add_64,True,PASS,15.510513356886804,1,1,1,"xor(add(rdi, rsi), 0x4047)",2,2,a2f50797b65dbb48a68989e7c4bc7fcab6e61228bb73fdba89669305b325b0f4,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_007,test_mba_nand_nor_add_64,True,PASS,16.788322092965245,1,1,1,"xor(add(rdi, rsi), 0x61f3)",2,2,c97485f1988b3b4ddf3af5b09f79516b26aa70c91b36b71e9781428e7a36efe1,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_008,test_mba_nand_nor_add_64,True,PASS,15.843197550158948,1,1,1,"xor(add(rdi, rsi), 0x45cb)",2,2,17146e7039fa56085a80ab27f37f8f04dec1add180bea0923dff111a0427864d,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_009,test_mba_nand_nor_add_64,True,PASS,15.061370675917715,1,1,1,"xor(add(rdi, rsi), 0x5506)",2,2,67bd9a42a2667826b84b09d278e07cbf28597d5df6c2706bff2807e7a000ad5c,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_010,test_mba_nand_nor_add_64,True,PASS,14.592194152995944,1,1,1,"xor(add(rdi, rsi), 0x2675)",2,2,8e5583a62b8cbb647a602e5c3e2a6055c48189ce54ca9c5e9799ca0e50e6fecb,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_011,test_mba_nand_nor_add_64,True,PASS,15.540860868990421,1,1,1,"xor(add(rdi, rsi), 0x5d98)",2,2,245641d04a7b9e44556394ddfafd915bd50b2cd50d45063b2e7e7afda3056cfb,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_012,test_mba_nand_nor_add_64,True,PASS,14.126188921742141,1,1,1,"xor(add(rdi, rsi), 0x17f0)",2,2,3e8f0b9b946efa0aeae8f2eccd0078c3cf8881eed98af9eefe7091e6553e6b52,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_013,test_mba_nand_nor_add_64,True,PASS,19.493804693222046,1,1,1,"xor(add(rdi, rsi), 0x1842)",2,2,7a9a2a93814fe6f7de7391abe89348297184105c8aac1bf47ded0128e2fdcee7,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_014,test_mba_nand_nor_add_64,True,PASS,15.561946016270667,1,1,1,"xor(add(rdi, rsi), 0x50bc)",2,2,9a2d0a54d28bc56336df6a503237550c3ee057c032fcfc4e71308bf110f2ce9c,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_015,test_mba_nand_nor_add_64,True,PASS,14.686446141917259,1,1,1,"xor(add(rdi, rsi), 0x58c6)",2,2,b547074ba7b17bea3b560dd639641ffa2bee941a5cae41937d88d9492070f2e0,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_016,test_mba_nand_nor_add_64,True,PASS,16.87951745186001,1,1,1,"xor(add(rdi, rsi), 0x7422)",2,2,4822217f74ad6f0a0f0086ba7c86ce8ca9a38a5bb6bfa0f25e2d07d38a35f861,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_017,test_mba_nand_nor_add_64,True,PASS,20.788899794220924,1,1,1,"xor(add(rdi, rsi), 0x3c4d)",2,2,b2a2979f9b418fc0543a9ddb732196c868a05d6bb0d6500c4d730055d10e4180,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_018,test_mba_nand_nor_add_64,True,PASS,21.806863392237574,1,1,1,"xor(add(rdi, rsi), 0x3952)",2,2,dc956cd45b319c9a6334ea3f8c6965b86da1a9ba8739e8fd418e8d23360e98f6,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_019,test_mba_nand_nor_add_64,True,PASS,17.92612767731771,1,1,1,"xor(add(rdi, rsi), 0x47a1)",2,2,ac431466bb18dd9b53e95fef74404add946addfc2661fee8cb23e57a2b31b1f6,agy-hydrogen round=1
+D,test_test_mba_nand_nor_add_64_020,test_mba_nand_nor_add_64,True,PASS,38.44566237879917,1,2,1,"xor(add(rdi, rsi), 0x5943)",2,2,7e44cb943fced426a48104a4a915ba53486d9f72690bdd1c8074d75a0d93af1d,agy-hydrogen round=2
+D,test_test_mba_or_and_sub_64_001,test_mba_or_and_sub_64,True,PASS,21.00730806682259,1,1,1,"rol(add(xor(rdi, rsi), 0x5ce7), 4)",3,3,a7d551e6e0d8d96d597f1dd463ca3f6333d2a478e8f567c32da0f3ea6f0d30c9,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_002,test_mba_or_and_sub_64,True,PASS,23.2542309272103,1,1,1,"rol(add(xor(rdi, rsi), 0x4b7b), 1)",3,3,fed40531d5e70f8e7438d49e936bd3346f679773fe70451978203a62176611b2,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_003,test_mba_or_and_sub_64,True,PASS,15.064758645836264,1,1,1,"rol(add(xor(rdi, rsi), 0x5dfa), 6)",3,3,9f5e376fd843d30d94339ab4cd45886a8fbe3f6f2315d5b8176b2a838c795606,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_004,test_mba_or_and_sub_64,True,PASS,14.895185803994536,1,1,1,"rol(add(xor(rdi, rsi), 0x2930), 7)",3,3,81f8a1dc9434d7325c0e7bc819d11cd7012cc119309c0ada40d823b2f2e704f7,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_005,test_mba_or_and_sub_64,True,PASS,16.856273760087788,1,1,1,"rol(add(xor(rdi, rsi), 0x3475), 4)",3,3,5ddcea9dc6b4b9efff20ef9d0a311c80d39e252a384b77b246d8f93dc1d25b54,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_006,test_mba_or_and_sub_64,True,PASS,18.395311006810516,1,1,1,"rol(add(xor(rdi, rsi), 0x4265), 3)",3,3,e774a85bb06147388ce0e47257fe91c895dd16e19fe0608f7cde7a1b14b6279c,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_007,test_mba_or_and_sub_64,True,PASS,24.56721528992057,1,1,1,"rol(add(xor(rdi, rsi), 0x7fac), 5)",3,3,96cd6598a0eb6008290408f9fb6eb21e53672b7999d4de10eb8af572e28935a0,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_008,test_mba_or_and_sub_64,True,PASS,21.97698473231867,1,1,1,"rol(add(xor(rdi, rsi), 0x5373), 4)",3,3,9225d74d7cb6b1330f1e5d6680cb5df5111caad375177274b890775bd5492edf,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_009,test_mba_or_and_sub_64,True,PASS,18.646387660875916,1,1,1,"rol(add(xor(rdi, rsi), 0x325f), 6)",3,3,6cf29e8d4ae354b159995fc94a9f9b8e5c242fb4f6af4bfd22dcd938e3f7f3e7,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_010,test_mba_or_and_sub_64,True,PASS,23.074327757116407,1,1,1,"rol(add(xor(rdi, rsi), 0x617), 5)",3,3,cd6e4ece59c4da6127c9fdc1ba5b09c2e82d1754b6c53bd766002bd22a2a5c41,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_011,test_mba_or_and_sub_64,True,PASS,57.19909755233675,1,3,1,"rol(add(xor(rdi, rsi), 0x4194), 7)",3,3,d470d278feeb860dfb47620754af3cc226280857fcd883c67e6e8f0cd894b82a,agy-hydrogen round=3
+D,test_test_mba_or_and_sub_64_012,test_mba_or_and_sub_64,True,PASS,59.91975085576996,1,3,1,"rol(add(xor(rdi, rsi), 0x51cf), 5)",3,3,1b1515bbd2f13ec3301dfc644d35de46d3ac0803170ea2ecd963fa64ecc7ab5d,agy-hydrogen round=3
+D,test_test_mba_or_and_sub_64_013,test_mba_or_and_sub_64,True,PASS,40.39470340684056,1,2,1,"rol(add(xor(rdi, rsi), 0x21bc), 3)",3,3,badd786d7ca4808e2dc00f60e8a63476f85d2e038d2106b3270f9365d543ce9c,agy-hydrogen round=2
+D,test_test_mba_or_and_sub_64_014,test_mba_or_and_sub_64,True,PASS,21.54891066579148,1,1,1,"rol(add(xor(rdi, rsi), 0x2648), 2)",3,3,a5cad53066d62911946a91f3d9456ae5730163c25899442f8902fa93ad829484,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_015,test_mba_or_and_sub_64,True,PASS,23.55077484389767,1,1,1,"rol(add(xor(rdi, rsi), 0x720), 3)",3,3,8aa76b8fdf809a937eba723da8521fe87e053aed5e79dfea76daa9334992a6f5,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_016,test_mba_or_and_sub_64,True,PASS,22.546646404080093,1,1,1,"rol(add(xor(rdi, rsi), 0x564b), 4)",3,3,a79e9e9324fd8e11e6fc7bac90a2059355d20b6942f6f47aa3a50f7de134ebd0,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_017,test_mba_or_and_sub_64,True,PASS,19.922698673792183,1,1,1,"rol(add(xor(rdi, rsi), 0x3f50), 6)",3,3,61aa9ae1d9d86deaf128ca65b686500070e1a0554dc3f74cca55e6a92b242093,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_018,test_mba_or_and_sub_64,True,PASS,22.55126676429063,1,1,1,"rol(add(xor(rdi, rsi), 0x6520), 6)",3,3,fe10038a83c5fc34149d839bac18091f30d0b08d572e2c9ef39765b32015845e,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_019,test_mba_or_and_sub_64,True,PASS,16.592370956670493,1,1,1,"rol(add(xor(rdi, rsi), 0x1c6f), 3)",3,3,0dcde116a7014dc6fd5368e98902df44fe6cc1dae31aecaed73a2890b78a9af8,agy-hydrogen round=1
+D,test_test_mba_or_and_sub_64_020,test_mba_or_and_sub_64,True,PASS,19.207507621962577,1,1,1,"rol(add(xor(rdi, rsi), 0x1e5), 7)",3,3,d30db8ff65912b3ec81c1c203a1eb5d44c07b542516eac3bdb1fc87c3d4e4400,agy-hydrogen round=1
+D,test_test_mba_rotate_mix_64_001,test_mba_rotate_mix_64,True,PASS,17.098612574394792,1,1,1,"add(ror(xor(rdi, rsi), 0x12), lshr(rdx, 14))",4,4,4f4c697b4f9dd3b1884fa2fdca5f49513790d6738bdd80e9fe5c8ba8fa6e4c22,agy-hydrogen round=1
+D,test_test_mba_rotate_mix_64_002,test_mba_rotate_mix_64,True,PASS,14.540520225651562,1,1,1,"add(ror(xor(rdi, rsi), 0x1c), lshr(rdx, 3))",4,4,224310fd5d69d1e92bab08f656c331e03e2c5ef6efdae317cb75103b09f9011d,agy-hydrogen round=1
+D,test_test_mba_rotate_mix_64_003,test_mba_rotate_mix_64,True,PASS,13.48740360699594,1,1,1,"add(ror(xor(rdi, rsi), 0x15), lshr(rdx, 5))",4,4,d16117ea4d97042893afc63001399600c49dfbd0b0c9530fdc90752c7bc928e3,agy-hydrogen round=1
+D,test_test_mba_rotate_mix_64_004,test_mba_rotate_mix_64,True,PASS,16.04481096798554,1,1,1,"add(ror(xor(rdi, rsi), 12), lshr(rdx, 15))",4,4,5c2fe53897540734c4ce2bb7c90d7c103847b5057a88bf55de37915790c157fc,agy-hydrogen round=1
+D,test_test_mba_rotate_mix_64_005,test_mba_rotate_mix_64,True,PASS,18.042199944145977,1,1,1,"add(ror(xor(rdi, rsi), 0x13), lshr(rdx, 4))",4,4,d20ec7be6a2aa9ed4cde7a28b195881ea616072d26abde6405e8f21fcefcdf88,agy-hydrogen round=1
+D,test_test_mba_rotate_mix_64_006,test_mba_rotate_mix_64,True,PASS,14.59299842780456,1,1,1,"add(ror(xor(rdi, rsi), 0x18), lshr(rdx, 8))",4,4,534034a55e540ee659685825914e5d2aecb7018d83775e5514f851801b7160ef,agy-hydrogen round=1
+D,test_test_mba_rotate_mix_64_007,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,58.47362344712019,0,3,0,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_rotate_mix_64_008,test_mba_rotate_mix_64,True,PASS,26.351944118738174,1,1,1,"add(ror(xor(rdi, rsi), 10), lshr(rdx, 4))",4,4,60d5968caee3b77838b69059fd373eb44be567640cc433b190a1259c802d82b3,agy-hydrogen round=1
+D,test_test_mba_rotate_mix_64_009,test_mba_rotate_mix_64,True,PASS,22.77651599701494,1,1,1,"add(ror(xor(rdi, rsi), 11), lshr(rdx, 11))",4,4,1b45d0f259d166fa04dbb657ae7ae46b8ed312a03cd5530c9bad24453fcf826f,agy-hydrogen round=1
+D,test_test_mba_rotate_mix_64_010,test_mba_rotate_mix_64,True,PASS,25.394623537082225,1,1,1,"add(ror(xor(rdi, rsi), 13), lshr(rdx, 10))",4,4,790f5cac658844bb7061bb9565a5188353d2f302a0b02a2fa9ed5c3fa6571f0e,agy-hydrogen round=1
+D,test_test_mba_rotate_mix_64_011,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,58.25508892070502,0,3,0,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_rotate_mix_64_012,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,58.95590726099908,0,3,0,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_rotate_mix_64_013,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,58.16808762634173,0,3,0,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_rotate_mix_64_014,test_mba_rotate_mix_64,False,FAIL_EXHAUSTED,58.21056514931843,0,3,0,,,4,,agy-hydrogen rounds=3
+D,test_test_mba_rotate_mix_64_015,test_mba_rotate_mix_64,True,PASS,39.7020800113678,1,2,1,"add(ror(xor(rdi, rsi), 9), lshr(rdx, 4))",4,4,bee6d8dcafdb29d7132f05c1ddd6e8c156a7d6557138167d3d37aeb9c4b6579a,agy-hydrogen round=2
+D,test_test_mba_rotate_mix_64_016,test_mba_rotate_mix_64,True,PASS,19.81163430120796,1,1,1,"add(ror(xor(rdi, rsi), 13), lshr(rdx, 13))",4,4,cdb85d1395421d958d1c37d35019cb78ba25d7e1b7d7d23c19b734d69ce0d240,agy-hydrogen round=1
+D,test_test_mba_rotate_mix_64_017,test_mba_rotate_mix_64,True,PASS,17.997675758320838,1,1,1,"add(ror(xor(rdi, rsi), 0x1f), lshr(rdx, 10))",4,4,5a74792e1e58a1ab6c044d7a0d704e4f5021c5ad05957d2acfba3c968112f2b5,agy-hydrogen round=1
+D,test_test_mba_rotate_mix_64_018,test_mba_rotate_mix_64,True,PASS,56.68071353901178,1,3,1,"add(ror(xor(rdi, rsi), 3), lshr(rdx, 12))",4,4,b64fe2bd81bb25b20d3dd5100f2f4158f33b1fa51125a51da136e24059dc872a,agy-hydrogen round=3
+D,test_test_mba_rotate_mix_64_019,test_mba_rotate_mix_64,True,PASS,41.08855652902275,1,2,1,"add(ror(xor(rdi, rsi), 6), lshr(rdx, 14))",4,4,8d577e9b96719fd37ea7b69420a2865962ca6668ddb4af5f3ad2c60259093eec,agy-hydrogen round=2
+D,test_test_mba_rotate_mix_64_020,test_mba_rotate_mix_64,True,PASS,21.674523431807756,1,1,1,"add(ror(xor(rdi, rsi), 0x1e), lshr(rdx, 4))",4,4,8fd47e7ea2b1751618e231300fbe95dd40bf165c0b2325ce4acec093fac13cdb,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_001,test_mba_sar_neg_32,True,PASS,38.43680040491745,1,2,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 1), trunc32(rsi)), 0x33b2))",6,6,2f5de284f3a9fca3c275f8c56cd4ff1cd3aca0c4ce4ca99522a2f9c3ae31b7ee,agy-hydrogen round=2
+D,test_test_mba_sar_neg_32_002,test_mba_sar_neg_32,True,PASS,40.139967056922615,1,2,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 4), trunc32(rsi)), 0x5c0))",6,6,d6a59978c2d09b07e0b79c00870bd62809c12574be5bd06ce607870542493b2a,agy-hydrogen round=2
+D,test_test_mba_sar_neg_32_003,test_mba_sar_neg_32,True,PASS,39.7459076680243,1,2,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 15), trunc32(rsi)), 0x6a4f))",6,6,92602b83a84e0b72209264eaf9b9773c15b61b64e8a93fa233393ebbfd0d01a9,agy-hydrogen round=2
+D,test_test_mba_sar_neg_32_004,test_mba_sar_neg_32,True,PASS,18.662796231918037,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 8), trunc32(rsi)), 0x90c))",6,6,589b5d81a43f67f6dc55a2fc8e70b1a47d42c6d6a62eeade25f5dc6a85b3ed46,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_005,test_mba_sar_neg_32,True,PASS,16.123129167128354,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 4), trunc32(rsi)), 0xc1b))",6,6,c020fe531d8268ba5d2c5d572f77a7a4c5a89534d69183113253c67a16aad756,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_006,test_mba_sar_neg_32,True,PASS,15.99027845216915,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 1), trunc32(rsi)), 0x2a82))",6,6,625e9012ac63f148df27b7d75d31724bfc0389df6311c9de7cb9236f69ebebf5,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_007,test_mba_sar_neg_32,True,PASS,19.37462028255686,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 1), trunc32(rsi)), 0x324e))",6,6,0eba75286a24cf8d0e9a3d891baa16bf75a7afb1f0c936d1f4610eff3fee2382,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_008,test_mba_sar_neg_32,True,PASS,15.87815605616197,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 8), trunc32(rsi)), 0x1e37))",6,6,16a529a5dc15e42c13bd748670da60d7140fea589ff529844d5c46f9c64ecf44,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_009,test_mba_sar_neg_32,True,PASS,21.727299158927053,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 4), trunc32(rsi)), 0x3e3c))",6,6,eca741825a5d6979a8f0824c0cc00300e66d02f82aec1369222fd3f9c646cf87,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_010,test_mba_sar_neg_32,True,PASS,15.293905182741582,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 4), trunc32(rsi)), 0x5444))",6,6,ab51b4b021ac2ec5eb784747b32d4b732cd3830971a2f19603728d459a5c2d0b,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_011,test_mba_sar_neg_32,True,PASS,17.47187891136855,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 4), trunc32(rsi)), 0x7232))",6,6,b30a0643eab4736391f7f6907c0796cce22aa316f57524d8a40c580a29d15140,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_012,test_mba_sar_neg_32,True,PASS,17.09705553110689,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 7), trunc32(rsi)), 0x2acf))",6,6,104ba348e6ef5d6f18cd667a6e4cc787169ab1fa90a2aceebf09f150301106aa,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_013,test_mba_sar_neg_32,True,PASS,16.784664674196392,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 5), trunc32(rsi)), 0x6432))",6,6,a696f01d3c3d7af645497ba6b4d1f90088ff2e95e8a2b036997b4fb7534a3a3d,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_014,test_mba_sar_neg_32,True,PASS,16.01448539691046,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 10), trunc32(rsi)), 0x2735))",6,6,2ecf37eeebf01f2ab15f5b949da2ba03141318137aad3f71f624413cc9ff6919,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_015,test_mba_sar_neg_32,True,PASS,16.376250035129488,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 5), trunc32(rsi)), 0x2e5))",6,6,d924e7032c035cc59b0f35186fd357e9e453b7491b1ac8b7178f3ad8c9267f09,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_016,test_mba_sar_neg_32,True,PASS,15.156913559883833,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 14), trunc32(rsi)), 0x289e))",6,6,33b9932585066fe913ea87b0462eeb2cdb5c937627d437593801eedd719866f0,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_017,test_mba_sar_neg_32,True,PASS,15.73862738115713,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 6), trunc32(rsi)), 0x67b8))",6,6,cd1dc16477e83b4d48dc6e28aad0c21f4bfa747827246aeb499ff9e916b78caa,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_018,test_mba_sar_neg_32,True,PASS,13.07235175324604,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 6), trunc32(rsi)), 0x1b77))",6,6,93e0cfd75246a3c82e6b106449dfad671c0a1a472ccf0d979b11618905513707,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_019,test_mba_sar_neg_32,True,PASS,15.10937037318945,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 13), trunc32(rsi)), 0x2964))",6,6,bd1da32893f6db5ac56745a2d2377d37e5b83eb18b111353ee5d1dfed9fc5c54,agy-hydrogen round=1
+D,test_test_mba_sar_neg_32_020,test_mba_sar_neg_32,True,PASS,15.949585924390703,1,1,1,"zext64(xor32(sub32(ashr32(trunc32(rdi), 8), trunc32(rsi)), 0x7f98))",6,6,fdc981f5c19c1738f6464b2d20dcf98b1ee0c593d596814ded1953e4551bb96d,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_001,test_mba_sbb_mask_64,True,PASS,50.597029177006334,1,2,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x56fb)",3,3,1fed31d625e104d19c11a6882c2f5e7ee10f1fb90994fe5729452e02d18a1477,agy-hydrogen round=2
+D,test_test_mba_sbb_mask_64_002,test_mba_sbb_mask_64,True,PASS,20.916407926008105,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x514c)",3,3,d5ed7662121321273a693c9889476891d70428ff051ebb8405c4b02f42ae256b,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_003,test_mba_sbb_mask_64,True,PASS,21.997265465091914,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x72d5)",3,3,bfcf7387ed0a7988bf09723aea79e5e5e6a21e1f7d48bc776a79febf2abfcc8b,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_004,test_mba_sbb_mask_64,True,PASS,23.926785625051707,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x15f7)",3,3,e8bb253554ae30f2c3d555fd20e9c7918237d133b1f970137ad01383690ddf91,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_005,test_mba_sbb_mask_64,True,PASS,25.435028163716197,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x693f)",3,3,1e892e50d5845738271b5f7e2e432c66160dc621cce77b236da42712eb42b0d4,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_006,test_mba_sbb_mask_64,True,PASS,24.782209078781307,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x341b)",3,3,a88fff083428a1fa67ab1c17bfbe9c339114f62aac49b5d80a9a4393c7c37e87,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_007,test_mba_sbb_mask_64,True,PASS,26.380320985801518,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x78d2)",3,3,559c0f148b42ad75b5ff2eeac349d979099c7d1d77bfaea0805ba9c120ef0474,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_008,test_mba_sbb_mask_64,True,PASS,24.439739525783807,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x5cba)",3,3,59b2fa1cc2205317848c6bbb61accde6d37a3ee2c3389a0f2913abc745e321bd,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_009,test_mba_sbb_mask_64,True,PASS,25.59008039580658,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x461)",3,3,3390a6fc0b45b189b2245110077552818e51edc345fce86acbacf11f58db0cb3,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_010,test_mba_sbb_mask_64,True,PASS,24.47188927605748,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x1030)",3,3,3f390bfd8b34349bc7b59c33ee64c3e769fe4cd6558befc362cea6733a715f79,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_011,test_mba_sbb_mask_64,True,PASS,24.334043820854276,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x6808)",3,3,915fc0df075bb149732aa561db50051708580ecdd78c01771c68e58a26c54438,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_012,test_mba_sbb_mask_64,True,PASS,17.976273162756115,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x213c)",3,3,5cb6c7ff0319a4eaa1cc9e7629428bc3f273e1132d81c52a70f4aa13d4c4fe89,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_013,test_mba_sbb_mask_64,True,PASS,29.42094706511125,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x565c)",3,3,2c0672b2776aceaff8a88cabdbb172a55607339df46949df3af339b6ad32663b,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_014,test_mba_sbb_mask_64,True,PASS,27.90492981299758,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0xfb1)",3,3,655bb0943d90a82891a0adb65f384b5f2428e66db3f5906db1805f9049a7057f,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_015,test_mba_sbb_mask_64,True,PASS,23.50505193276331,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x590e)",3,3,80527f73e19cd214c708aa6d4f51fd46668d11cce14bfe98faf489208e7675b9,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_016,test_mba_sbb_mask_64,True,PASS,20.961193799972534,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x7ce3)",3,3,35a9e103c731f082645d7fcda4f72b28f26df06dd1a41f44b27387e24cf7dd5b,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_017,test_mba_sbb_mask_64,True,PASS,23.425938685890287,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x36ca)",3,3,ac6d76173b95e213cfa3cf0300b69b6ea003a395fd8e27f213dee4f88c0d51ce,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_018,test_mba_sbb_mask_64,True,PASS,20.92656005686149,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x43a3)",3,3,d5ef007b1cf7fd5f193e58476168cf8389ab1bfed4a60017caa8c017217ddea9,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_019,test_mba_sbb_mask_64,True,PASS,20.948505415115505,1,1,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x1e76)",3,3,9751ef615b9c6b5338e4b230c122d54ed75f2c06dfda60e7f3c7c37441a84e39,agy-hydrogen round=1
+D,test_test_mba_sbb_mask_64_020,test_mba_sbb_mask_64,True,PASS,37.17402234906331,1,2,1,"add(add(sbb(rdi, rsi, cf), rdx), 0x2b74)",3,3,13b4e5b660a96ae4b4215f987d6575565557005cdb1864e4fbf780c20244bd16,agy-hydrogen round=2

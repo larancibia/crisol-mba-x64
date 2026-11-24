@@ -1,0 +1,66 @@
+{
+  "n_instances": 20,
+  "pass_counts": {
+    "A": 15,
+    "B": 20,
+    "C": 20,
+    "D": 20,
+    "A_u_C": 20
+  },
+  "pass_rates_pct": {
+    "A": 75.0,
+    "B": 100.0,
+    "C": 100.0,
+    "D": 100.0,
+    "A_u_C": 100.0
+  },
+  "H1_D_vs_AuC": {
+    "diff_pp": 0.0,
+    "n10_D_only": 0,
+    "n01_AuC_only": 0,
+    "mcnemar_exact_p": 1.0,
+    "pass_H1_alpha_0_01": false
+  },
+  "H2_D_vs_B": {
+    "diff_pp": 0.0,
+    "n10_D_only": 0,
+    "n01_B_only": 0,
+    "mcnemar_exact_p": 1.0,
+    "pass_H2_alpha_0_01": false
+  },
+  "per_family": {
+    "dev_carry_adc_32_zext": {
+      "n": 5,
+      "A": 5,
+      "B": 5,
+      "C": 5,
+      "D": 5,
+      "A_u_C": 5
+    },
+    "dev_lin_sub_not_64": {
+      "n": 5,
+      "A": 5,
+      "B": 5,
+      "C": 5,
+      "D": 5,
+      "A_u_C": 5
+    },
+    "dev_lin_xor_add_64": {
+      "n": 5,
+      "A": 5,
+      "B": 5,
+      "C": 5,
+      "D": 5,
+      "A_u_C": 5
+    },
+    "dev_poly_shift_64": {
+      "n": 5,
+      "A": 0,
+      "B": 5,
+      "C": 5,
+      "D": 5,
+      "A_u_C": 5
+    }
+  },
+  "verdict": "NO-GO"
+}

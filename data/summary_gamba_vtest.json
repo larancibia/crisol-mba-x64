@@ -1,0 +1,56 @@
+{
+  "n_v_test": 160,
+  "gamba_supported_slices": 40,
+  "gamba_simplified_slices": 40,
+  "gamba_coverage_pct": 25.0,
+  "by_family": {
+    "test_mba_3var_carry_64": {
+      "n": 20,
+      "supported": 0,
+      "gamba_simplified": 0,
+      "reason": "UNSUPPORTED_MNEM:adc"
+    },
+    "test_mba_3var_linear_64": {
+      "n": 20,
+      "supported": 20,
+      "gamba_simplified": 20,
+      "reason": ""
+    },
+    "test_mba_adc_chain_32": {
+      "n": 20,
+      "supported": 0,
+      "gamba_simplified": 0,
+      "reason": "UNSUPPORTED_32BIT_ZEXT"
+    },
+    "test_mba_nand_nor_add_64": {
+      "n": 20,
+      "supported": 20,
+      "gamba_simplified": 20,
+      "reason": ""
+    },
+    "test_mba_or_and_sub_64": {
+      "n": 20,
+      "supported": 0,
+      "gamba_simplified": 0,
+      "reason": "UNSUPPORTED_MNEM:rol"
+    },
+    "test_mba_rotate_mix_64": {
+      "n": 20,
+      "supported": 0,
+      "gamba_simplified": 0,
+      "reason": "UNSUPPORTED_MNEM:ror"
+    },
+    "test_mba_sar_neg_32": {
+      "n": 20,
+      "supported": 0,
+      "gamba_simplified": 0,
+      "reason": "UNSUPPORTED_32BIT_ZEXT"
+    },
+    "test_mba_sbb_mask_64": {
+      "n": 20,
+      "supported": 0,
+      "gamba_simplified": 0,
+      "reason": "UNSUPPORTED_MNEM:sbb"
+    }
+  }
+}

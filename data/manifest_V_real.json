@@ -1,0 +1,1231 @@
+{
+  "schema": "crisol-mba-x64-real-o2-v1",
+  "count": 22,
+  "instances": [
+    {
+      "instance_id": "real_real_c_4var_token_64_gcc_001",
+      "split": "real_o2",
+      "family": "real_c_4var_token_64_gcc",
+      "width": 64,
+      "check_cf": false,
+      "asm": "mov rax, rdi\nxor rdi, rsi\nnot rcx\nor rax, rsi\nadd rax, rax\nsub rax, rdi\nxor rax, rdx\nmov rdx, rax\nxor rax, rcx\nand rdx, rcx\nlea rax, [rax + rdx*2 + 1]\nmov rdx, rax\nxor rax, 0x6ae5\nand edx, 0x6ae5\nlea rax, [rax + rdx*2]",
+      "bytes_hex": "4889f84831f748f7d14809f04801c04829f84831d04889c24831c84821ca488d4450014889c24835e56a000081e2e56a0000488d0450",
+      "bytes_sha256": "144d8296bc49419464390c84bf2fa1efed7d6dd52f7be6f797132bf653ad5280",
+      "insn_count": 15,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "add",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "sub",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "xor",
+            "l": {
+              "k": "bin",
+              "w": 64,
+              "op": "add",
+              "l": {
+                "k": "var",
+                "w": 64,
+                "name": "rdi"
+              },
+              "r": {
+                "k": "var",
+                "w": 64,
+                "name": "rsi"
+              }
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rdx"
+            }
+          },
+          "r": {
+            "k": "var",
+            "w": 64,
+            "name": "rcx"
+          }
+        },
+        "r": {
+          "k": "const",
+          "w": 64,
+          "val": 27365
+        }
+      },
+      "ground_truth_cost": 4,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 9.085,
+      "lean4_gt_sha256": "71ef6696c5944fa58835f47c720f63c2634fceba459e1d8490232a1439cea36b"
+    },
+    {
+      "instance_id": "real_real_c_affine_mul_64_clang_002",
+      "split": "real_o2",
+      "family": "real_c_affine_mul_64_clang",
+      "width": 64,
+      "check_cf": false,
+      "asm": "mov rax, rsi\nxor rax, rdi\nand rsi, rdi\nlea rcx, [rax + rsi*2]\nmov rax, rcx\nshl rax, 5\nsub rax, rcx\nxor rax, rdx",
+      "bytes_hex": "4889f04831f84821fe488d0c704889c848c1e0054829c84831d0",
+      "bytes_sha256": "b13ee279d03aabe5c4b95d25e616ed2c75fc29a8b86c6ce1fe8a6000a90c422a",
+      "insn_count": 8,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "mul",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "add",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 31
+          }
+        },
+        "r": {
+          "k": "var",
+          "w": 64,
+          "name": "rdx"
+        }
+      },
+      "ground_truth_cost": 3,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 14.187,
+      "lean4_gt_sha256": "24ee80ab6add87e33358cfed9bd650c41e215bfec8a6c420ac92b7bd8f53853c"
+    },
+    {
+      "instance_id": "real_real_c_affine_mul_64_clang_004",
+      "split": "real_o2",
+      "family": "real_c_affine_mul_64_clang",
+      "width": 64,
+      "check_cf": false,
+      "asm": "mov rax, rsi\nxor rax, rdi\nand rsi, rdi\nlea rcx, [rax + rsi*2]\nlea rax, [rcx*8]\nsub rax, rcx\nxor rax, rdx",
+      "bytes_hex": "4889f04831f84821fe488d0c70488d04cd000000004829c84831d0",
+      "bytes_sha256": "66e0f25ec6f746e30bff0a54c6cf727d031c5b37ab00e48eddbb895429dba3ca",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "mul",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "add",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 7
+          }
+        },
+        "r": {
+          "k": "var",
+          "w": 64,
+          "name": "rdx"
+        }
+      },
+      "ground_truth_cost": 3,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 6.718,
+      "lean4_gt_sha256": "8632825a8da4dd758ea16eb5ee31cfefc34c7da654c0be638ba879931b90f533"
+    },
+    {
+      "instance_id": "real_real_c_affine_mul_64_clang_006",
+      "split": "real_o2",
+      "family": "real_c_affine_mul_64_clang",
+      "width": 64,
+      "check_cf": false,
+      "asm": "mov rax, rsi\nxor rax, rdi\nand rsi, rdi\nlea rax, [rax + rsi*2]\nlea rax, [rax + rax*4]\nxor rax, rdx",
+      "bytes_hex": "4889f04831f84821fe488d0470488d04804831d0",
+      "bytes_sha256": "74e7d2934529f30dacfa77151c97e84480efd05f94cfab5725f29a9b487c7d41",
+      "insn_count": 6,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "mul",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "add",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 5
+          }
+        },
+        "r": {
+          "k": "var",
+          "w": 64,
+          "name": "rdx"
+        }
+      },
+      "ground_truth_cost": 3,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 6.145,
+      "lean4_gt_sha256": "2d89de988c8d1e444363cf5fe56d8fe42de9a72cc68943fe894aa15e27b2589d"
+    },
+    {
+      "instance_id": "real_real_c_affine_mul_64_clang_008",
+      "split": "real_o2",
+      "family": "real_c_affine_mul_64_clang",
+      "width": 64,
+      "check_cf": false,
+      "asm": "mov rax, rsi\nxor rax, rdi\nand rsi, rdi\nlea rax, [rax + rsi*2]\nlea rcx, [rax + rax*2]\nlea rax, [rax + rcx*4]\nxor rax, rdx",
+      "bytes_hex": "4889f04831f84821fe488d0470488d0c40488d04884831d0",
+      "bytes_sha256": "ca06cfee82b7a9cd3b7dfdc3349550b5af92a4369640e147248bb5e693ef276a",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "mul",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "add",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 13
+          }
+        },
+        "r": {
+          "k": "var",
+          "w": 64,
+          "name": "rdx"
+        }
+      },
+      "ground_truth_cost": 3,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 8.921,
+      "lean4_gt_sha256": "972bcc0f43162a1397257d4af4e9dd981de4a63abaaf603f91bff9e8403af231"
+    },
+    {
+      "instance_id": "real_real_c_affine_mul_64_clang_010",
+      "split": "real_o2",
+      "family": "real_c_affine_mul_64_clang",
+      "width": 64,
+      "check_cf": false,
+      "asm": "mov rax, rsi\nxor rax, rdi\nand rsi, rdi\nlea rax, [rax + rsi*2]\nlea rax, [rax + rax*2]\nxor rax, rdx",
+      "bytes_hex": "4889f04831f84821fe488d0470488d04404831d0",
+      "bytes_sha256": "8a9c446adbadfd2c4604cc3e153ada36dbf1e4bfa98e0a00126ff3c69c2c3dc8",
+      "insn_count": 6,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "mul",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "add",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 3
+          }
+        },
+        "r": {
+          "k": "var",
+          "w": 64,
+          "name": "rdx"
+        }
+      },
+      "ground_truth_cost": 3,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 4.973,
+      "lean4_gt_sha256": "fecd7a7d2071702f39bd775da7abec4ae71ed30601821f8f646a37b846941532"
+    },
+    {
+      "instance_id": "real_real_c_affine_mul_64_gcc_001",
+      "split": "real_o2",
+      "family": "real_c_affine_mul_64_gcc",
+      "width": 64,
+      "check_cf": false,
+      "asm": "mov rax, rdi\nxor rdi, rsi\nmov rcx, rdx\nand rax, rsi\nlea rdx, [rdi + rax*2]\nlea rax, [rdx + rdx*2]\nshl rax, 3\nsub rax, rdx\nxor rax, rcx",
+      "bytes_hex": "4889f84831f74889d14821f0488d1447488d045248c1e0034829d04831c8",
+      "bytes_sha256": "2edd425973ed041dd75008075fc0993fb8bb168f10dae28d5a145de239660daf",
+      "insn_count": 9,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "mul",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "add",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 23
+          }
+        },
+        "r": {
+          "k": "var",
+          "w": 64,
+          "name": "rdx"
+        }
+      },
+      "ground_truth_cost": 3,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 14.064,
+      "lean4_gt_sha256": "2019a6f4768c741d4d3ce0463b7f52be529f61b2d8cb6ddc5e85ce8e62c3adcc"
+    },
+    {
+      "instance_id": "real_real_c_affine_mul_64_gcc_003",
+      "split": "real_o2",
+      "family": "real_c_affine_mul_64_gcc",
+      "width": 64,
+      "check_cf": false,
+      "asm": "mov rax, rdi\nxor rdi, rsi\nmov rcx, rdx\nand rax, rsi\nlea rdx, [rdi + rax*2]\nmov rax, rdx\nshl rax, 4\nadd rax, rdx\nxor rax, rcx",
+      "bytes_hex": "4889f84831f74889d14821f0488d14474889d048c1e0044801d04831c8",
+      "bytes_sha256": "f7f338daba7c95b20594618d7588facfb1b3dae7828c10c035c452bb997f7c65",
+      "insn_count": 9,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "mul",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "add",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 17
+          }
+        },
+        "r": {
+          "k": "var",
+          "w": 64,
+          "name": "rdx"
+        }
+      },
+      "ground_truth_cost": 3,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 8.414,
+      "lean4_gt_sha256": "0344020356e1095546ca303239fd4d8fcf3e5a6d57050330e5cda7950927c858"
+    },
+    {
+      "instance_id": "real_real_c_affine_mul_64_gcc_005",
+      "split": "real_o2",
+      "family": "real_c_affine_mul_64_gcc",
+      "width": 64,
+      "check_cf": false,
+      "asm": "mov rax, rdi\nxor rdi, rsi\nand rax, rsi\nlea rax, [rdi + rax*2]\nlea rcx, [rax + rax*4]\nlea rax, [rax + rcx*8]\nxor rax, rdx",
+      "bytes_hex": "4889f84831f74821f0488d0447488d0c80488d04c84831d0",
+      "bytes_sha256": "b48848282a349fabf2f52b019befe952349a3a2f8ed56d8773cec7ab2216736c",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "mul",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "add",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 41
+          }
+        },
+        "r": {
+          "k": "var",
+          "w": 64,
+          "name": "rdx"
+        }
+      },
+      "ground_truth_cost": 3,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 13.286,
+      "lean4_gt_sha256": "ee82da12104d1fee4eb9a28b8c1c10aa4ce4ee2a0da21af30e5a694a487e686c"
+    },
+    {
+      "instance_id": "real_real_c_affine_mul_64_gcc_007",
+      "split": "real_o2",
+      "family": "real_c_affine_mul_64_gcc",
+      "width": 64,
+      "check_cf": false,
+      "asm": "mov rax, rdi\nxor rdi, rsi\nand rax, rsi\nlea rax, [rdi + rax*2]\nlea rcx, [rax + rax*8]\nlea rax, [rax + rcx*2]\nxor rax, rdx",
+      "bytes_hex": "4889f84831f74821f0488d0447488d0cc0488d04484831d0",
+      "bytes_sha256": "99c33a98126f18d5e26f688007169790d411d9dde3271903ce496b98f24c5330",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "mul",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "add",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 19
+          }
+        },
+        "r": {
+          "k": "var",
+          "w": 64,
+          "name": "rdx"
+        }
+      },
+      "ground_truth_cost": 3,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 8.662,
+      "lean4_gt_sha256": "1bc462cbbf3ab36e75b39244dfd2c5c3caabdbee31af53e46aa56e0d277c4f61"
+    },
+    {
+      "instance_id": "real_real_c_affine_mul_64_gcc_009",
+      "split": "real_o2",
+      "family": "real_c_affine_mul_64_gcc",
+      "width": 64,
+      "check_cf": false,
+      "asm": "mov rax, rdi\nxor rdi, rsi\nmov rcx, rdx\nand rax, rsi\nlea rdx, [rdi + rax*2]\nmov rax, rdx\nshl rax, 5\nsub rax, rdx\nxor rax, rcx",
+      "bytes_hex": "4889f84831f74889d14821f0488d14474889d048c1e0054829d04831c8",
+      "bytes_sha256": "271e45a727f66ca239ba4d9738b9ac4c64f15ef858051dc4b04f2b735601646c",
+      "insn_count": 9,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "mul",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "add",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 31
+          }
+        },
+        "r": {
+          "k": "var",
+          "w": 64,
+          "name": "rdx"
+        }
+      },
+      "ground_truth_cost": 3,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 12.455,
+      "lean4_gt_sha256": "77ae0d61b536199015688fa18d0f9a04e8aa2b0fe8310597c0e749b97dd31da9"
+    },
+    {
+      "instance_id": "real_real_c_hash_mix_64_clang_002",
+      "split": "real_o2",
+      "family": "real_c_hash_mix_64_clang",
+      "width": 64,
+      "check_cf": false,
+      "asm": "xor rdi, rsi\nmov rax, rdi\nxor rax, 0x5771\nand edi, 0x5771\nlea rax, [rax + rdi*2]\nshr rdx, 3\nxor rax, rdx",
+      "bytes_hex": "4831f74889f848357157000081e771570000488d047848c1ea034831d0",
+      "bytes_sha256": "c60d5e08b6b4c2de34f135adc602ba4cedc66001f0752f7a79b0210dda9ea1b5",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "add",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "xor",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 22385
+          }
+        },
+        "r": {
+          "k": "bin",
+          "w": 64,
+          "op": "lshr",
+          "l": {
+            "k": "var",
+            "w": 64,
+            "name": "rdx"
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 3
+          }
+        }
+      },
+      "ground_truth_cost": 4,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 5.661,
+      "lean4_gt_sha256": "2fbd3dafdc09bf691eb57162eb93021607c2d17ce2fdc7796bc730e832e00da5"
+    },
+    {
+      "instance_id": "real_real_c_hash_mix_64_clang_004",
+      "split": "real_o2",
+      "family": "real_c_hash_mix_64_clang",
+      "width": 64,
+      "check_cf": false,
+      "asm": "xor rdi, rsi\nmov rax, rdi\nxor rax, 0x7152\nand edi, 0x7152\nlea rax, [rax + rdi*2]\nshr rdx, 0x11\nxor rax, rdx",
+      "bytes_hex": "4831f74889f848355271000081e752710000488d047848c1ea114831d0",
+      "bytes_sha256": "04af9d0985ee798ed1e4d052f582310c0e021dcfb336e7dff10b2e2b07afd5b7",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "add",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "xor",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 29010
+          }
+        },
+        "r": {
+          "k": "bin",
+          "w": 64,
+          "op": "lshr",
+          "l": {
+            "k": "var",
+            "w": 64,
+            "name": "rdx"
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 17
+          }
+        }
+      },
+      "ground_truth_cost": 4,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 3.918,
+      "lean4_gt_sha256": "e273bb363e51e9a6bd5d5e484618d977e7d87d5284c36a00b8bb2ddf868c0dfa"
+    },
+    {
+      "instance_id": "real_real_c_hash_mix_64_clang_006",
+      "split": "real_o2",
+      "family": "real_c_hash_mix_64_clang",
+      "width": 64,
+      "check_cf": false,
+      "asm": "xor rdi, rsi\nmov rax, rdi\nxor rax, 0x6241\nand edi, 0x6241\nlea rax, [rax + rdi*2]\nshr rdx, 0x11\nxor rax, rdx",
+      "bytes_hex": "4831f74889f848354162000081e741620000488d047848c1ea114831d0",
+      "bytes_sha256": "42c18748f94349625298d777e5aed263099e47132fb31b92dc53a6d170597690",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "add",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "xor",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 25153
+          }
+        },
+        "r": {
+          "k": "bin",
+          "w": 64,
+          "op": "lshr",
+          "l": {
+            "k": "var",
+            "w": 64,
+            "name": "rdx"
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 17
+          }
+        }
+      },
+      "ground_truth_cost": 4,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 4.83,
+      "lean4_gt_sha256": "84560ab35bd00c9c5d7d99ce9bf56e59579ccf0f88e4f8b97c046989db3337cc"
+    },
+    {
+      "instance_id": "real_real_c_hash_mix_64_clang_008",
+      "split": "real_o2",
+      "family": "real_c_hash_mix_64_clang",
+      "width": 64,
+      "check_cf": false,
+      "asm": "xor rdi, rsi\nmov rax, rdi\nxor rax, 0xab4\nand edi, 0xab4\nlea rax, [rax + rdi*2]\nshr rdx, 3\nxor rax, rdx",
+      "bytes_hex": "4831f74889f84835b40a000081e7b40a0000488d047848c1ea034831d0",
+      "bytes_sha256": "52a02a8ef0f0c339a8b36423723d289d482873d863202ca7e0acb594a9d826a1",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "add",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "xor",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 2740
+          }
+        },
+        "r": {
+          "k": "bin",
+          "w": 64,
+          "op": "lshr",
+          "l": {
+            "k": "var",
+            "w": 64,
+            "name": "rdx"
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 3
+          }
+        }
+      },
+      "ground_truth_cost": 4,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 7.49,
+      "lean4_gt_sha256": "68d65f05b86dfdc85d0e475e0e2c5e751a9f15b7a9fa48132612a42b176e0c28"
+    },
+    {
+      "instance_id": "real_real_c_hash_mix_64_clang_010",
+      "split": "real_o2",
+      "family": "real_c_hash_mix_64_clang",
+      "width": 64,
+      "check_cf": false,
+      "asm": "xor rdi, rsi\nmov rax, rdi\nxor rax, 0x79a4\nand edi, 0x79a4\nlea rax, [rax + rdi*2]\nshr rdx, 7\nxor rax, rdx",
+      "bytes_hex": "4831f74889f84835a479000081e7a4790000488d047848c1ea074831d0",
+      "bytes_sha256": "ddbe52907a532ee3d3639656311301bf48ae83c37005501ff837afd5872c67a3",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "add",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "xor",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 31140
+          }
+        },
+        "r": {
+          "k": "bin",
+          "w": 64,
+          "op": "lshr",
+          "l": {
+            "k": "var",
+            "w": 64,
+            "name": "rdx"
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 7
+          }
+        }
+      },
+      "ground_truth_cost": 4,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 8.492,
+      "lean4_gt_sha256": "f44bcabd7773f4a40f9b2e4c3ba8e591847dfa2c72493ac3310c107eeedcfa5f"
+    },
+    {
+      "instance_id": "real_real_c_hash_mix_64_gcc_001",
+      "split": "real_o2",
+      "family": "real_c_hash_mix_64_gcc",
+      "width": 64,
+      "check_cf": false,
+      "asm": "xor rdi, rsi\nshr rdx, 8\nmov rax, rdi\nxor rdi, 0x6a76\nand eax, 0x6a76\nlea rax, [rdi + rax*2]\nxor rax, rdx",
+      "bytes_hex": "4831f748c1ea084889f84881f7766a000025766a0000488d04474831d0",
+      "bytes_sha256": "973a417afd9cafda790117247bd241ed1ec359b20bb29d19cd0b3d21d5fe8f6e",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "add",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "xor",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 27254
+          }
+        },
+        "r": {
+          "k": "bin",
+          "w": 64,
+          "op": "lshr",
+          "l": {
+            "k": "var",
+            "w": 64,
+            "name": "rdx"
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 8
+          }
+        }
+      },
+      "ground_truth_cost": 4,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 5.588,
+      "lean4_gt_sha256": "9cd515ec9c8a74e3f7584c4d8fea3835efab663b6908c7eef27239f408a9abd8"
+    },
+    {
+      "instance_id": "real_real_c_hash_mix_64_gcc_003",
+      "split": "real_o2",
+      "family": "real_c_hash_mix_64_gcc",
+      "width": 64,
+      "check_cf": false,
+      "asm": "xor rdi, rsi\nshr rdx, 7\nmov rax, rdi\nxor rdi, 0x6b4\nand eax, 0x6b4\nlea rax, [rdi + rax*2]\nxor rax, rdx",
+      "bytes_hex": "4831f748c1ea074889f84881f7b406000025b4060000488d04474831d0",
+      "bytes_sha256": "d3a15299b1528bebdb9517883c5e9262c0790db1f3882748bb15f09885464d57",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "add",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "xor",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 1716
+          }
+        },
+        "r": {
+          "k": "bin",
+          "w": 64,
+          "op": "lshr",
+          "l": {
+            "k": "var",
+            "w": 64,
+            "name": "rdx"
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 7
+          }
+        }
+      },
+      "ground_truth_cost": 4,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 5.716,
+      "lean4_gt_sha256": "69f7101a5f3ff37959b53ddfd05213b273687f76ad2cd32db295c9987228e032"
+    },
+    {
+      "instance_id": "real_real_c_hash_mix_64_gcc_005",
+      "split": "real_o2",
+      "family": "real_c_hash_mix_64_gcc",
+      "width": 64,
+      "check_cf": false,
+      "asm": "xor rdi, rsi\nshr rdx, 8\nmov rax, rdi\nxor rdi, 0x3fac\nand eax, 0x3fac\nlea rax, [rdi + rax*2]\nxor rax, rdx",
+      "bytes_hex": "4831f748c1ea084889f84881f7ac3f000025ac3f0000488d04474831d0",
+      "bytes_sha256": "0271d360e8758cd514cee818c79b6814a51c6fee1301830ffbef54479cbcbacf",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "add",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "xor",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 16300
+          }
+        },
+        "r": {
+          "k": "bin",
+          "w": 64,
+          "op": "lshr",
+          "l": {
+            "k": "var",
+            "w": 64,
+            "name": "rdx"
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 8
+          }
+        }
+      },
+      "ground_truth_cost": 4,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 3.728,
+      "lean4_gt_sha256": "2404798a2cda88aabdef6fb95cf0674eecc748988d2e858163c55b74c64b7b53"
+    },
+    {
+      "instance_id": "real_real_c_hash_mix_64_gcc_007",
+      "split": "real_o2",
+      "family": "real_c_hash_mix_64_gcc",
+      "width": 64,
+      "check_cf": false,
+      "asm": "xor rdi, rsi\nshr rdx, 0xa\nmov rax, rdi\nxor rdi, 0x3758\nand eax, 0x3758\nlea rax, [rdi + rax*2]\nxor rax, rdx",
+      "bytes_hex": "4831f748c1ea0a4889f84881f7583700002558370000488d04474831d0",
+      "bytes_sha256": "14211a5f4c9bae2723a28e50e0fe017d849444897c244d2c3fba0ff80984da79",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "add",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "xor",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 14168
+          }
+        },
+        "r": {
+          "k": "bin",
+          "w": 64,
+          "op": "lshr",
+          "l": {
+            "k": "var",
+            "w": 64,
+            "name": "rdx"
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 10
+          }
+        }
+      },
+      "ground_truth_cost": 4,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 5.661,
+      "lean4_gt_sha256": "39ae24c038a5b6f733de8bcfe2feae5777cbaf097c52adde0f579ef5a596340f"
+    },
+    {
+      "instance_id": "real_real_c_hash_mix_64_gcc_009",
+      "split": "real_o2",
+      "family": "real_c_hash_mix_64_gcc",
+      "width": 64,
+      "check_cf": false,
+      "asm": "xor rdi, rsi\nshr rdx, 4\nmov rax, rdi\nxor rdi, 0x4bb1\nand eax, 0x4bb1\nlea rax, [rdi + rax*2]\nxor rax, rdx",
+      "bytes_hex": "4831f748c1ea044889f84881f7b14b000025b14b0000488d04474831d0",
+      "bytes_sha256": "ea78b36bcf5974795934eba050d47fb27fff933086928fd602f051e6bfd1f40a",
+      "insn_count": 7,
+      "ground_truth_expr": {
+        "k": "bin",
+        "w": 64,
+        "op": "xor",
+        "l": {
+          "k": "bin",
+          "w": 64,
+          "op": "add",
+          "l": {
+            "k": "bin",
+            "w": 64,
+            "op": "xor",
+            "l": {
+              "k": "var",
+              "w": 64,
+              "name": "rdi"
+            },
+            "r": {
+              "k": "var",
+              "w": 64,
+              "name": "rsi"
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 19377
+          }
+        },
+        "r": {
+          "k": "bin",
+          "w": 64,
+          "op": "lshr",
+          "l": {
+            "k": "var",
+            "w": 64,
+            "name": "rdx"
+          },
+          "r": {
+            "k": "const",
+            "w": 64,
+            "val": 4
+          }
+        }
+      },
+      "ground_truth_cost": 4,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 7.749,
+      "lean4_gt_sha256": "cb458f09c2bf50ba492ba89a4819006828c6da29a4c8de7516f4de86ed03b3cb"
+    },
+    {
+      "instance_id": "real_real_c_signed_shift_32_gcc_001",
+      "split": "real_o2",
+      "family": "real_c_signed_shift_32_gcc",
+      "width": 32,
+      "check_cf": false,
+      "asm": "mov eax, esi\nsar edi, 5\nnot eax\nand eax, edi\nxor edi, esi\nadd eax, eax\nsub eax, edi\nxor eax, 0x3f19",
+      "bytes_hex": "89f0c1ff05f7d021f831f701c029f835193f0000",
+      "bytes_sha256": "243d0fc42269ef709f05582591a3cead11ddba9d850958ecfd398c620a331eaf",
+      "insn_count": 8,
+      "ground_truth_expr": {
+        "k": "un",
+        "w": 64,
+        "op": "zext64",
+        "arg": {
+          "k": "bin",
+          "w": 32,
+          "op": "xor",
+          "l": {
+            "k": "bin",
+            "w": 32,
+            "op": "sub",
+            "l": {
+              "k": "bin",
+              "w": 32,
+              "op": "ashr",
+              "l": {
+                "k": "un",
+                "w": 32,
+                "op": "trunc32",
+                "arg": {
+                  "k": "var",
+                  "w": 64,
+                  "name": "rdi"
+                }
+              },
+              "r": {
+                "k": "const",
+                "w": 32,
+                "val": 5
+              }
+            },
+            "r": {
+              "k": "un",
+              "w": 32,
+              "op": "trunc32",
+              "arg": {
+                "k": "var",
+                "w": 64,
+                "name": "rsi"
+              }
+            }
+          },
+          "r": {
+            "k": "const",
+            "w": 32,
+            "val": 16153
+          }
+        }
+      },
+      "ground_truth_cost": 6,
+      "lean4_gt_verified": true,
+      "lean4_gt_sec": 7.478,
+      "lean4_gt_sha256": "74c995850d84f2012ab6009ed09ac5d27c0bbcf0cd8d4ef2a9e68418c072278f"
+    }
+  ]
+}
